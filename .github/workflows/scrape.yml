@@ -27,7 +27,7 @@ jobs:
           pip install aiohttp requests
 
       - name: Run aus.py
-        run: python aus.py
+        run: python aus.py --key "${{ secrets.AUS_SCRIPT_KEY }}"
 
       - name: Commit and Push Data
         run: |
