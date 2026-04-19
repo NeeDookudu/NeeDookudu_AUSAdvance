@@ -1,0 +1,97 @@
+{
+  "fetched_at": "2026-04-19T19:33:18.305420+00:00",
+  "movies": [
+    {
+      "title": "Dhurandhar: The Revenge",
+      "movie_info": {
+        "title": "Dhurandhar: The Revenge",
+        "poster_url": null,
+        "release_date": "",
+        "running_time_mins": null,
+        "director": null,
+        "rating": null,
+        "village_ids": [
+          "HO00016613"
+        ],
+        "ec_versions": [
+          {
+            "label": "Hindi",
+            "ho_code": "HO00018413"
+          },
+          {
+            "label": "Tamil",
+            "ho_code": "HO00018465"
+          }
+        ],
+        "hoyts_ids": [
+          "HO00011070",
+          "HO00011071"
+        ]
+      },
+      "overall_stats": {
+        "sessions": 0,
+        "locations": 0,
+        "total_seats": 0,
+        "sold_seats": 0,
+        "available_seats": 0,
+        "occupancy_pct": 0.0,
+        "revenue": 0,
+        "dates_count": 0,
+        "village_sessions": 0,
+        "ec_sessions": 0,
+        "hoyts_sessions": 0,
+        "village_revenue": 0,
+        "ec_revenue": 0,
+        "hoyts_revenue": 0,
+        "ec_language_revenue": {
+          "Hindi": 0,
+          "Tamil": 0
+        }
+      },
+      "dates": []
+    },
+    {
+      "title": "Ustaad Bhagat Singh",
+      "movie_info": {
+        "title": "Ustaad Bhagat Singh",
+        "poster_url": null,
+        "release_date": "",
+        "running_time_mins": null,
+        "director": null,
+        "rating": null,
+        "village_ids": [
+          "HO00016722"
+        ],
+        "ec_versions": [
+          {
+            "label": "Telugu",
+            "ho_code": "HO00018473"
+          }
+        ],
+        "hoyts_ids": [
+          "HO00011088"
+        ]
+      },
+      "overall_stats": {
+        "sessions": 0,
+        "locations": 0,
+        "total_seats": 0,
+        "sold_seats": 0,
+        "available_seats": 0,
+        "occupancy_pct": 0.0,
+        "revenue": 0,
+        "dates_count": 0,
+        "village_sessions": 0,
+        "ec_sessions": 0,
+        "hoyts_sessions": 0,
+        "village_revenue": 0,
+        "ec_revenue": 0,
+        "hoyts_revenue": 0,
+        "ec_language_revenue": {
+          "Telugu": 0
+        }
+      },
+      "dates": []
+    }
+  ]
+}
