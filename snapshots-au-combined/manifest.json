@@ -19863,7 +19863,59 @@
           }
         }
       ]
+    },
+    {
+      "file": "20260423T213526Z.json",
+      "fetched_at": "2026-04-23T21:35:26.050744+00:00",
+      "movie_count": 2,
+      "movies": [
+        {
+          "title": "Dhurandhar: The Revenge",
+          "overall_stats": {
+            "sessions": 65,
+            "locations": 11,
+            "total_seats": 3947,
+            "sold_seats": 393,
+            "available_seats": 3344,
+            "occupancy_pct": 10.0,
+            "revenue": 12391.8,
+            "dates_count": 9,
+            "village_sessions": 27,
+            "ec_sessions": 13,
+            "hoyts_sessions": 25,
+            "village_revenue": 0.0,
+            "ec_revenue": 6392.0,
+            "hoyts_revenue": 5999.8,
+            "ec_language_revenue": {
+              "Hindi": 6392.0,
+              "Tamil": 0
+            }
+          }
+        },
+        {
+          "title": "Ustaad Bhagat Singh",
+          "overall_stats": {
+            "sessions": 0,
+            "locations": 0,
+            "total_seats": 0,
+            "sold_seats": 0,
+            "available_seats": 0,
+            "occupancy_pct": 0.0,
+            "revenue": 0,
+            "dates_count": 0,
+            "village_sessions": 0,
+            "ec_sessions": 0,
+            "hoyts_sessions": 0,
+            "village_revenue": 0,
+            "ec_revenue": 0,
+            "hoyts_revenue": 0,
+            "ec_language_revenue": {
+              "Telugu": 0
+            }
+          }
+        }
+      ]
     }
   ],
-  "updated_at": "2026-04-23T20:53:44.731020+00:00"
+  "updated_at": "2026-04-23T21:35:26.050744+00:00"
 }
