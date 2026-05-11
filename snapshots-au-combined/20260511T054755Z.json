@@ -1,0 +1,1411 @@
+{
+  "fetched_at": "2026-05-11T05:47:55.112337+00:00",
+  "movies": [
+    {
+      "title": "Dhurandhar: The Revenge",
+      "movie_info": {
+        "title": "Dhurandhar: The Revenge",
+        "poster_url": "https://imgix.hoyts.com.au/mx/posters/au/9-x-16-red-rain-mg-poster-copy-1920px.jpg",
+        "release_date": "2026-03-19",
+        "running_time_mins": 235,
+        "director": "Aditya Dhar",
+        "rating": "R18+",
+        "village_ids": [
+          "HO00016613"
+        ],
+        "ec_versions": [
+          {
+            "label": "Hindi",
+            "ho_code": "HO00018413"
+          },
+          {
+            "label": "Tamil",
+            "ho_code": "HO00018465"
+          }
+        ],
+        "hoyts_ids": [
+          "HO00011070",
+          "HO00011071"
+        ]
+      },
+      "overall_stats": {
+        "sessions": 19,
+        "locations": 4,
+        "total_seats": 1254,
+        "sold_seats": 103,
+        "available_seats": 1094,
+        "occupancy_pct": 8.2,
+        "revenue": 2604.0,
+        "dates_count": 10,
+        "village_sessions": 6,
+        "ec_sessions": 10,
+        "hoyts_sessions": 3,
+        "village_revenue": 1012.0,
+        "ec_revenue": 780.0,
+        "hoyts_revenue": 812.0,
+        "ec_language_revenue": {
+          "Hindi": 780.0,
+          "Tamil": 0
+        }
+      },
+      "dates": [
+        {
+          "date": "2026-05-11",
+          "overall_stats": {
+            "sessions": 4,
+            "locations": 4,
+            "total_seats": 285,
+            "sold_seats": 37,
+            "available_seats": 236,
+            "occupancy_pct": 13.0,
+            "revenue": 946.0
+          },
+          "platforms": {
+            "village_cinemas": {
+              "overall_stats": {
+                "sessions": 2,
+                "locations": 2,
+                "total_seats": 147,
+                "sold_seats": 16,
+                "available_seats": 131,
+                "occupancy_pct": 10.9,
+                "revenue": 368.0
+              },
+              "locations": {
+                "274": {
+                  "cinema_name": "Knox",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 53,
+                    "sold_seats": 9,
+                    "available_seats": 44,
+                    "occupancy_pct": 17.0,
+                    "revenue": 207.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": "725859",
+                      "stats": {
+                        "total_seats": 53,
+                        "sold_seats": 9,
+                        "available_seats": 44,
+                        "occupancy_pct": 17.0,
+                        "revenue": 207.0
+                      },
+                      "showtime": "2026-05-11T18:15:00.000000+10:00",
+                      "experience": "Standard"
+                    }
+                  ]
+                },
+                "309": {
+                  "cinema_name": "Sunshine",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 94,
+                    "sold_seats": 7,
+                    "available_seats": 87,
+                    "occupancy_pct": 7.4,
+                    "revenue": 161.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": "896636",
+                      "stats": {
+                        "total_seats": 94,
+                        "sold_seats": 7,
+                        "available_seats": 87,
+                        "occupancy_pct": 7.4,
+                        "revenue": 161.0
+                      },
+                      "showtime": "2026-05-11T19:30:00.000000+10:00",
+                      "experience": "Standard"
+                    }
+                  ]
+                }
+              }
+            },
+            "event_cinemas": {
+              "overall_stats": {
+                "sessions": 1,
+                "locations": 1,
+                "total_seats": 57,
+                "sold_seats": 5,
+                "available_seats": 49,
+                "occupancy_pct": 8.8,
+                "revenue": 130.0
+              },
+              "languages": {
+                "Hindi": {
+                  "ho_code": "HO00018413",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 57,
+                    "sold_seats": 5,
+                    "available_seats": 49,
+                    "occupancy_pct": 8.8,
+                    "revenue": 130.0
+                  },
+                  "locations": {
+                    "53": {
+                      "cinema_name": "Castle Hill",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 57,
+                        "sold_seats": 5,
+                        "available_seats": 49,
+                        "occupancy_pct": 8.8,
+                        "revenue": 130.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15345945,
+                          "stats": {
+                            "total_seats": 57,
+                            "available_seats": 49,
+                            "sold_seats": 5,
+                            "wheelchair_seats": 3,
+                            "occupancy_pct": 8.8,
+                            "revenue": 130.0
+                          },
+                          "start_time": "2026-05-11T20:00",
+                          "screen_type": "Std",
+                          "screen_name": "6",
+                          "adult_price": 26.0
+                        }
+                      ]
+                    }
+                  }
+                },
+                "Tamil": {
+                  "ho_code": "HO00018465",
+                  "overall_stats": {
+                    "sessions": 0,
+                    "locations": 0,
+                    "total_seats": 0,
+                    "sold_seats": 0,
+                    "available_seats": 0,
+                    "occupancy_pct": 0.0,
+                    "revenue": 0
+                  },
+                  "locations": {}
+                }
+              }
+            },
+            "hoyts": {
+              "overall_stats": {
+                "sessions": 1,
+                "locations": 1,
+                "total_seats": 81,
+                "sold_seats": 16,
+                "available_seats": 56,
+                "occupancy_pct": 19.8,
+                "revenue": 448.0
+              },
+              "locations": {
+                "WESCIN": {
+                  "cinema_name": "WESCIN",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 81,
+                    "sold_seats": 16,
+                    "available_seats": 56,
+                    "occupancy_pct": 19.8,
+                    "revenue": 448.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 373684,
+                      "stats": {
+                        "total_seats": 81,
+                        "sold_seats": 16,
+                        "unavailable": 9,
+                        "available_seats": 56,
+                        "occupancy_pct": 22.2,
+                        "revenue": 448.0
+                      },
+                      "start_time": "2026-05-11T09:50:00",
+                      "screen": "Cinema 10"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "date": "2026-05-12",
+          "overall_stats": {
+            "sessions": 4,
+            "locations": 4,
+            "total_seats": 285,
+            "sold_seats": 46,
+            "available_seats": 227,
+            "occupancy_pct": 16.1,
+            "revenue": 1171.0
+          },
+          "platforms": {
+            "village_cinemas": {
+              "overall_stats": {
+                "sessions": 2,
+                "locations": 2,
+                "total_seats": 147,
+                "sold_seats": 15,
+                "available_seats": 132,
+                "occupancy_pct": 10.2,
+                "revenue": 345.0
+              },
+              "locations": {
+                "274": {
+                  "cinema_name": "Knox",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 53,
+                    "sold_seats": 4,
+                    "available_seats": 49,
+                    "occupancy_pct": 7.5,
+                    "revenue": 92.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": "725931",
+                      "stats": {
+                        "total_seats": 53,
+                        "sold_seats": 4,
+                        "available_seats": 49,
+                        "occupancy_pct": 7.5,
+                        "revenue": 92.0
+                      },
+                      "showtime": "2026-05-12T18:15:00.000000+10:00",
+                      "experience": "Standard"
+                    }
+                  ]
+                },
+                "309": {
+                  "cinema_name": "Sunshine",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 94,
+                    "sold_seats": 11,
+                    "available_seats": 83,
+                    "occupancy_pct": 11.7,
+                    "revenue": 253.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": "896730",
+                      "stats": {
+                        "total_seats": 94,
+                        "sold_seats": 11,
+                        "available_seats": 83,
+                        "occupancy_pct": 11.7,
+                        "revenue": 253.0
+                      },
+                      "showtime": "2026-05-12T19:30:00.000000+10:00",
+                      "experience": "Standard"
+                    }
+                  ]
+                }
+              }
+            },
+            "event_cinemas": {
+              "overall_stats": {
+                "sessions": 1,
+                "locations": 1,
+                "total_seats": 57,
+                "sold_seats": 21,
+                "available_seats": 33,
+                "occupancy_pct": 36.8,
+                "revenue": 546.0
+              },
+              "languages": {
+                "Hindi": {
+                  "ho_code": "HO00018413",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 57,
+                    "sold_seats": 21,
+                    "available_seats": 33,
+                    "occupancy_pct": 36.8,
+                    "revenue": 546.0
+                  },
+                  "locations": {
+                    "53": {
+                      "cinema_name": "Castle Hill",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 57,
+                        "sold_seats": 21,
+                        "available_seats": 33,
+                        "occupancy_pct": 36.8,
+                        "revenue": 546.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15345999,
+                          "stats": {
+                            "total_seats": 57,
+                            "available_seats": 33,
+                            "sold_seats": 21,
+                            "wheelchair_seats": 3,
+                            "occupancy_pct": 36.8,
+                            "revenue": 546.0
+                          },
+                          "start_time": "2026-05-12T20:00",
+                          "screen_type": "Std",
+                          "screen_name": "6",
+                          "adult_price": 26.0
+                        }
+                      ]
+                    }
+                  }
+                },
+                "Tamil": {
+                  "ho_code": "HO00018465",
+                  "overall_stats": {
+                    "sessions": 0,
+                    "locations": 0,
+                    "total_seats": 0,
+                    "sold_seats": 0,
+                    "available_seats": 0,
+                    "occupancy_pct": 0.0,
+                    "revenue": 0
+                  },
+                  "locations": {}
+                }
+              }
+            },
+            "hoyts": {
+              "overall_stats": {
+                "sessions": 1,
+                "locations": 1,
+                "total_seats": 81,
+                "sold_seats": 10,
+                "available_seats": 62,
+                "occupancy_pct": 12.3,
+                "revenue": 280.0
+              },
+              "locations": {
+                "WESCIN": {
+                  "cinema_name": "WESCIN",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 81,
+                    "sold_seats": 10,
+                    "available_seats": 62,
+                    "occupancy_pct": 12.3,
+                    "revenue": 280.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 373777,
+                      "stats": {
+                        "total_seats": 81,
+                        "sold_seats": 10,
+                        "unavailable": 9,
+                        "available_seats": 62,
+                        "occupancy_pct": 13.9,
+                        "revenue": 280.0
+                      },
+                      "start_time": "2026-05-12T09:50:00",
+                      "screen": "Cinema 10"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "date": "2026-05-13",
+          "overall_stats": {
+            "sessions": 4,
+            "locations": 4,
+            "total_seats": 285,
+            "sold_seats": 20,
+            "available_seats": 253,
+            "occupancy_pct": 7.0,
+            "revenue": 487.0
+          },
+          "platforms": {
+            "village_cinemas": {
+              "overall_stats": {
+                "sessions": 2,
+                "locations": 2,
+                "total_seats": 147,
+                "sold_seats": 13,
+                "available_seats": 134,
+                "occupancy_pct": 8.8,
+                "revenue": 299.0
+              },
+              "locations": {
+                "274": {
+                  "cinema_name": "Knox",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 53,
+                    "sold_seats": 4,
+                    "available_seats": 49,
+                    "occupancy_pct": 7.5,
+                    "revenue": 92.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": "726001",
+                      "stats": {
+                        "total_seats": 53,
+                        "sold_seats": 4,
+                        "available_seats": 49,
+                        "occupancy_pct": 7.5,
+                        "revenue": 92.0
+                      },
+                      "showtime": "2026-05-13T18:15:00.000000+10:00",
+                      "experience": "Standard"
+                    }
+                  ]
+                },
+                "309": {
+                  "cinema_name": "Sunshine",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 94,
+                    "sold_seats": 9,
+                    "available_seats": 85,
+                    "occupancy_pct": 9.6,
+                    "revenue": 207.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": "896773",
+                      "stats": {
+                        "total_seats": 94,
+                        "sold_seats": 9,
+                        "available_seats": 85,
+                        "occupancy_pct": 9.6,
+                        "revenue": 207.0
+                      },
+                      "showtime": "2026-05-13T19:15:00.000000+10:00",
+                      "experience": "Standard"
+                    }
+                  ]
+                }
+              }
+            },
+            "event_cinemas": {
+              "overall_stats": {
+                "sessions": 1,
+                "locations": 1,
+                "total_seats": 57,
+                "sold_seats": 4,
+                "available_seats": 50,
+                "occupancy_pct": 7.0,
+                "revenue": 104.0
+              },
+              "languages": {
+                "Hindi": {
+                  "ho_code": "HO00018413",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 57,
+                    "sold_seats": 4,
+                    "available_seats": 50,
+                    "occupancy_pct": 7.0,
+                    "revenue": 104.0
+                  },
+                  "locations": {
+                    "53": {
+                      "cinema_name": "Castle Hill",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 57,
+                        "sold_seats": 4,
+                        "available_seats": 50,
+                        "occupancy_pct": 7.0,
+                        "revenue": 104.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15346036,
+                          "stats": {
+                            "total_seats": 57,
+                            "available_seats": 50,
+                            "sold_seats": 4,
+                            "wheelchair_seats": 3,
+                            "occupancy_pct": 7.0,
+                            "revenue": 104.0
+                          },
+                          "start_time": "2026-05-13T20:00",
+                          "screen_type": "Std",
+                          "screen_name": "6",
+                          "adult_price": 26.0
+                        }
+                      ]
+                    }
+                  }
+                },
+                "Tamil": {
+                  "ho_code": "HO00018465",
+                  "overall_stats": {
+                    "sessions": 0,
+                    "locations": 0,
+                    "total_seats": 0,
+                    "sold_seats": 0,
+                    "available_seats": 0,
+                    "occupancy_pct": 0.0,
+                    "revenue": 0
+                  },
+                  "locations": {}
+                }
+              }
+            },
+            "hoyts": {
+              "overall_stats": {
+                "sessions": 1,
+                "locations": 1,
+                "total_seats": 81,
+                "sold_seats": 3,
+                "available_seats": 69,
+                "occupancy_pct": 3.7,
+                "revenue": 84.0
+              },
+              "locations": {
+                "WESCIN": {
+                  "cinema_name": "WESCIN",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 81,
+                    "sold_seats": 3,
+                    "available_seats": 69,
+                    "occupancy_pct": 3.7,
+                    "revenue": 84.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 373731,
+                      "stats": {
+                        "total_seats": 81,
+                        "sold_seats": 3,
+                        "unavailable": 9,
+                        "available_seats": 69,
+                        "occupancy_pct": 4.2,
+                        "revenue": 84.0
+                      },
+                      "start_time": "2026-05-13T09:50:00",
+                      "screen": "Cinema 10"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "date": "2026-05-14",
+          "overall_stats": {
+            "sessions": 1,
+            "locations": 1,
+            "total_seats": 57,
+            "sold_seats": 0,
+            "available_seats": 54,
+            "occupancy_pct": 0.0,
+            "revenue": 0.0
+          },
+          "platforms": {
+            "village_cinemas": {
+              "overall_stats": {
+                "sessions": 0,
+                "locations": 0,
+                "total_seats": 0,
+                "sold_seats": 0,
+                "available_seats": 0,
+                "occupancy_pct": 0.0,
+                "revenue": 0
+              },
+              "locations": {}
+            },
+            "event_cinemas": {
+              "overall_stats": {
+                "sessions": 1,
+                "locations": 1,
+                "total_seats": 57,
+                "sold_seats": 0,
+                "available_seats": 54,
+                "occupancy_pct": 0.0,
+                "revenue": 0.0
+              },
+              "languages": {
+                "Hindi": {
+                  "ho_code": "HO00018413",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 57,
+                    "sold_seats": 0,
+                    "available_seats": 54,
+                    "occupancy_pct": 0.0,
+                    "revenue": 0.0
+                  },
+                  "locations": {
+                    "53": {
+                      "cinema_name": "Castle Hill",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 57,
+                        "sold_seats": 0,
+                        "available_seats": 54,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15356168,
+                          "stats": {
+                            "total_seats": 57,
+                            "available_seats": 54,
+                            "sold_seats": 0,
+                            "wheelchair_seats": 3,
+                            "occupancy_pct": 0.0,
+                            "revenue": 0.0
+                          },
+                          "start_time": "2026-05-14T20:00",
+                          "screen_type": "Std",
+                          "screen_name": "8",
+                          "adult_price": 26.0
+                        }
+                      ]
+                    }
+                  }
+                },
+                "Tamil": {
+                  "ho_code": "HO00018465",
+                  "overall_stats": {
+                    "sessions": 0,
+                    "locations": 0,
+                    "total_seats": 0,
+                    "sold_seats": 0,
+                    "available_seats": 0,
+                    "occupancy_pct": 0.0,
+                    "revenue": 0
+                  },
+                  "locations": {}
+                }
+              }
+            },
+            "hoyts": {
+              "overall_stats": {
+                "sessions": 0,
+                "locations": 0,
+                "total_seats": 0,
+                "sold_seats": 0,
+                "available_seats": 0,
+                "occupancy_pct": 0.0,
+                "revenue": 0
+              },
+              "locations": {}
+            }
+          }
+        },
+        {
+          "date": "2026-05-15",
+          "overall_stats": {
+            "sessions": 1,
+            "locations": 1,
+            "total_seats": 57,
+            "sold_seats": 0,
+            "available_seats": 54,
+            "occupancy_pct": 0.0,
+            "revenue": 0.0
+          },
+          "platforms": {
+            "village_cinemas": {
+              "overall_stats": {
+                "sessions": 0,
+                "locations": 0,
+                "total_seats": 0,
+                "sold_seats": 0,
+                "available_seats": 0,
+                "occupancy_pct": 0.0,
+                "revenue": 0
+              },
+              "locations": {}
+            },
+            "event_cinemas": {
+              "overall_stats": {
+                "sessions": 1,
+                "locations": 1,
+                "total_seats": 57,
+                "sold_seats": 0,
+                "available_seats": 54,
+                "occupancy_pct": 0.0,
+                "revenue": 0.0
+              },
+              "languages": {
+                "Hindi": {
+                  "ho_code": "HO00018413",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 57,
+                    "sold_seats": 0,
+                    "available_seats": 54,
+                    "occupancy_pct": 0.0,
+                    "revenue": 0.0
+                  },
+                  "locations": {
+                    "53": {
+                      "cinema_name": "Castle Hill",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 57,
+                        "sold_seats": 0,
+                        "available_seats": 54,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15356123,
+                          "stats": {
+                            "total_seats": 57,
+                            "available_seats": 54,
+                            "sold_seats": 0,
+                            "wheelchair_seats": 3,
+                            "occupancy_pct": 0.0,
+                            "revenue": 0.0
+                          },
+                          "start_time": "2026-05-15T20:00",
+                          "screen_type": "Std",
+                          "screen_name": "8",
+                          "adult_price": 26.0
+                        }
+                      ]
+                    }
+                  }
+                },
+                "Tamil": {
+                  "ho_code": "HO00018465",
+                  "overall_stats": {
+                    "sessions": 0,
+                    "locations": 0,
+                    "total_seats": 0,
+                    "sold_seats": 0,
+                    "available_seats": 0,
+                    "occupancy_pct": 0.0,
+                    "revenue": 0
+                  },
+                  "locations": {}
+                }
+              }
+            },
+            "hoyts": {
+              "overall_stats": {
+                "sessions": 0,
+                "locations": 0,
+                "total_seats": 0,
+                "sold_seats": 0,
+                "available_seats": 0,
+                "occupancy_pct": 0.0,
+                "revenue": 0
+              },
+              "locations": {}
+            }
+          }
+        },
+        {
+          "date": "2026-05-16",
+          "overall_stats": {
+            "sessions": 1,
+            "locations": 1,
+            "total_seats": 57,
+            "sold_seats": 0,
+            "available_seats": 54,
+            "occupancy_pct": 0.0,
+            "revenue": 0.0
+          },
+          "platforms": {
+            "village_cinemas": {
+              "overall_stats": {
+                "sessions": 0,
+                "locations": 0,
+                "total_seats": 0,
+                "sold_seats": 0,
+                "available_seats": 0,
+                "occupancy_pct": 0.0,
+                "revenue": 0
+              },
+              "locations": {}
+            },
+            "event_cinemas": {
+              "overall_stats": {
+                "sessions": 1,
+                "locations": 1,
+                "total_seats": 57,
+                "sold_seats": 0,
+                "available_seats": 54,
+                "occupancy_pct": 0.0,
+                "revenue": 0.0
+              },
+              "languages": {
+                "Hindi": {
+                  "ho_code": "HO00018413",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 57,
+                    "sold_seats": 0,
+                    "available_seats": 54,
+                    "occupancy_pct": 0.0,
+                    "revenue": 0.0
+                  },
+                  "locations": {
+                    "53": {
+                      "cinema_name": "Castle Hill",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 57,
+                        "sold_seats": 0,
+                        "available_seats": 54,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15356034,
+                          "stats": {
+                            "total_seats": 57,
+                            "available_seats": 54,
+                            "sold_seats": 0,
+                            "wheelchair_seats": 3,
+                            "occupancy_pct": 0.0,
+                            "revenue": 0.0
+                          },
+                          "start_time": "2026-05-16T20:00",
+                          "screen_type": "Std",
+                          "screen_name": "8",
+                          "adult_price": 26.0
+                        }
+                      ]
+                    }
+                  }
+                },
+                "Tamil": {
+                  "ho_code": "HO00018465",
+                  "overall_stats": {
+                    "sessions": 0,
+                    "locations": 0,
+                    "total_seats": 0,
+                    "sold_seats": 0,
+                    "available_seats": 0,
+                    "occupancy_pct": 0.0,
+                    "revenue": 0
+                  },
+                  "locations": {}
+                }
+              }
+            },
+            "hoyts": {
+              "overall_stats": {
+                "sessions": 0,
+                "locations": 0,
+                "total_seats": 0,
+                "sold_seats": 0,
+                "available_seats": 0,
+                "occupancy_pct": 0.0,
+                "revenue": 0
+              },
+              "locations": {}
+            }
+          }
+        },
+        {
+          "date": "2026-05-17",
+          "overall_stats": {
+            "sessions": 1,
+            "locations": 1,
+            "total_seats": 57,
+            "sold_seats": 0,
+            "available_seats": 54,
+            "occupancy_pct": 0.0,
+            "revenue": 0.0
+          },
+          "platforms": {
+            "village_cinemas": {
+              "overall_stats": {
+                "sessions": 0,
+                "locations": 0,
+                "total_seats": 0,
+                "sold_seats": 0,
+                "available_seats": 0,
+                "occupancy_pct": 0.0,
+                "revenue": 0
+              },
+              "locations": {}
+            },
+            "event_cinemas": {
+              "overall_stats": {
+                "sessions": 1,
+                "locations": 1,
+                "total_seats": 57,
+                "sold_seats": 0,
+                "available_seats": 54,
+                "occupancy_pct": 0.0,
+                "revenue": 0.0
+              },
+              "languages": {
+                "Hindi": {
+                  "ho_code": "HO00018413",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 57,
+                    "sold_seats": 0,
+                    "available_seats": 54,
+                    "occupancy_pct": 0.0,
+                    "revenue": 0.0
+                  },
+                  "locations": {
+                    "53": {
+                      "cinema_name": "Castle Hill",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 57,
+                        "sold_seats": 0,
+                        "available_seats": 54,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15356074,
+                          "stats": {
+                            "total_seats": 57,
+                            "available_seats": 54,
+                            "sold_seats": 0,
+                            "wheelchair_seats": 3,
+                            "occupancy_pct": 0.0,
+                            "revenue": 0.0
+                          },
+                          "start_time": "2026-05-17T20:00",
+                          "screen_type": "Std",
+                          "screen_name": "8",
+                          "adult_price": 26.0
+                        }
+                      ]
+                    }
+                  }
+                },
+                "Tamil": {
+                  "ho_code": "HO00018465",
+                  "overall_stats": {
+                    "sessions": 0,
+                    "locations": 0,
+                    "total_seats": 0,
+                    "sold_seats": 0,
+                    "available_seats": 0,
+                    "occupancy_pct": 0.0,
+                    "revenue": 0
+                  },
+                  "locations": {}
+                }
+              }
+            },
+            "hoyts": {
+              "overall_stats": {
+                "sessions": 0,
+                "locations": 0,
+                "total_seats": 0,
+                "sold_seats": 0,
+                "available_seats": 0,
+                "occupancy_pct": 0.0,
+                "revenue": 0
+              },
+              "locations": {}
+            }
+          }
+        },
+        {
+          "date": "2026-05-18",
+          "overall_stats": {
+            "sessions": 1,
+            "locations": 1,
+            "total_seats": 57,
+            "sold_seats": 0,
+            "available_seats": 54,
+            "occupancy_pct": 0.0,
+            "revenue": 0.0
+          },
+          "platforms": {
+            "village_cinemas": {
+              "overall_stats": {
+                "sessions": 0,
+                "locations": 0,
+                "total_seats": 0,
+                "sold_seats": 0,
+                "available_seats": 0,
+                "occupancy_pct": 0.0,
+                "revenue": 0
+              },
+              "locations": {}
+            },
+            "event_cinemas": {
+              "overall_stats": {
+                "sessions": 1,
+                "locations": 1,
+                "total_seats": 57,
+                "sold_seats": 0,
+                "available_seats": 54,
+                "occupancy_pct": 0.0,
+                "revenue": 0.0
+              },
+              "languages": {
+                "Hindi": {
+                  "ho_code": "HO00018413",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 57,
+                    "sold_seats": 0,
+                    "available_seats": 54,
+                    "occupancy_pct": 0.0,
+                    "revenue": 0.0
+                  },
+                  "locations": {
+                    "53": {
+                      "cinema_name": "Castle Hill",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 57,
+                        "sold_seats": 0,
+                        "available_seats": 54,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15356217,
+                          "stats": {
+                            "total_seats": 57,
+                            "available_seats": 54,
+                            "sold_seats": 0,
+                            "wheelchair_seats": 3,
+                            "occupancy_pct": 0.0,
+                            "revenue": 0.0
+                          },
+                          "start_time": "2026-05-18T20:00",
+                          "screen_type": "Std",
+                          "screen_name": "8",
+                          "adult_price": 26.0
+                        }
+                      ]
+                    }
+                  }
+                },
+                "Tamil": {
+                  "ho_code": "HO00018465",
+                  "overall_stats": {
+                    "sessions": 0,
+                    "locations": 0,
+                    "total_seats": 0,
+                    "sold_seats": 0,
+                    "available_seats": 0,
+                    "occupancy_pct": 0.0,
+                    "revenue": 0
+                  },
+                  "locations": {}
+                }
+              }
+            },
+            "hoyts": {
+              "overall_stats": {
+                "sessions": 0,
+                "locations": 0,
+                "total_seats": 0,
+                "sold_seats": 0,
+                "available_seats": 0,
+                "occupancy_pct": 0.0,
+                "revenue": 0
+              },
+              "locations": {}
+            }
+          }
+        },
+        {
+          "date": "2026-05-19",
+          "overall_stats": {
+            "sessions": 1,
+            "locations": 1,
+            "total_seats": 57,
+            "sold_seats": 0,
+            "available_seats": 54,
+            "occupancy_pct": 0.0,
+            "revenue": 0.0
+          },
+          "platforms": {
+            "village_cinemas": {
+              "overall_stats": {
+                "sessions": 0,
+                "locations": 0,
+                "total_seats": 0,
+                "sold_seats": 0,
+                "available_seats": 0,
+                "occupancy_pct": 0.0,
+                "revenue": 0
+              },
+              "locations": {}
+            },
+            "event_cinemas": {
+              "overall_stats": {
+                "sessions": 1,
+                "locations": 1,
+                "total_seats": 57,
+                "sold_seats": 0,
+                "available_seats": 54,
+                "occupancy_pct": 0.0,
+                "revenue": 0.0
+              },
+              "languages": {
+                "Hindi": {
+                  "ho_code": "HO00018413",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 57,
+                    "sold_seats": 0,
+                    "available_seats": 54,
+                    "occupancy_pct": 0.0,
+                    "revenue": 0.0
+                  },
+                  "locations": {
+                    "53": {
+                      "cinema_name": "Castle Hill",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 57,
+                        "sold_seats": 0,
+                        "available_seats": 54,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15356276,
+                          "stats": {
+                            "total_seats": 57,
+                            "available_seats": 54,
+                            "sold_seats": 0,
+                            "wheelchair_seats": 3,
+                            "occupancy_pct": 0.0,
+                            "revenue": 0.0
+                          },
+                          "start_time": "2026-05-19T20:00",
+                          "screen_type": "Std",
+                          "screen_name": "8",
+                          "adult_price": 26.0
+                        }
+                      ]
+                    }
+                  }
+                },
+                "Tamil": {
+                  "ho_code": "HO00018465",
+                  "overall_stats": {
+                    "sessions": 0,
+                    "locations": 0,
+                    "total_seats": 0,
+                    "sold_seats": 0,
+                    "available_seats": 0,
+                    "occupancy_pct": 0.0,
+                    "revenue": 0
+                  },
+                  "locations": {}
+                }
+              }
+            },
+            "hoyts": {
+              "overall_stats": {
+                "sessions": 0,
+                "locations": 0,
+                "total_seats": 0,
+                "sold_seats": 0,
+                "available_seats": 0,
+                "occupancy_pct": 0.0,
+                "revenue": 0
+              },
+              "locations": {}
+            }
+          }
+        },
+        {
+          "date": "2026-05-20",
+          "overall_stats": {
+            "sessions": 1,
+            "locations": 1,
+            "total_seats": 57,
+            "sold_seats": 0,
+            "available_seats": 54,
+            "occupancy_pct": 0.0,
+            "revenue": 0.0
+          },
+          "platforms": {
+            "village_cinemas": {
+              "overall_stats": {
+                "sessions": 0,
+                "locations": 0,
+                "total_seats": 0,
+                "sold_seats": 0,
+                "available_seats": 0,
+                "occupancy_pct": 0.0,
+                "revenue": 0
+              },
+              "locations": {}
+            },
+            "event_cinemas": {
+              "overall_stats": {
+                "sessions": 1,
+                "locations": 1,
+                "total_seats": 57,
+                "sold_seats": 0,
+                "available_seats": 54,
+                "occupancy_pct": 0.0,
+                "revenue": 0.0
+              },
+              "languages": {
+                "Hindi": {
+                  "ho_code": "HO00018413",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 57,
+                    "sold_seats": 0,
+                    "available_seats": 54,
+                    "occupancy_pct": 0.0,
+                    "revenue": 0.0
+                  },
+                  "locations": {
+                    "53": {
+                      "cinema_name": "Castle Hill",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 57,
+                        "sold_seats": 0,
+                        "available_seats": 54,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15356325,
+                          "stats": {
+                            "total_seats": 57,
+                            "available_seats": 54,
+                            "sold_seats": 0,
+                            "wheelchair_seats": 3,
+                            "occupancy_pct": 0.0,
+                            "revenue": 0.0
+                          },
+                          "start_time": "2026-05-20T20:00",
+                          "screen_type": "Std",
+                          "screen_name": "8",
+                          "adult_price": 26.0
+                        }
+                      ]
+                    }
+                  }
+                },
+                "Tamil": {
+                  "ho_code": "HO00018465",
+                  "overall_stats": {
+                    "sessions": 0,
+                    "locations": 0,
+                    "total_seats": 0,
+                    "sold_seats": 0,
+                    "available_seats": 0,
+                    "occupancy_pct": 0.0,
+                    "revenue": 0
+                  },
+                  "locations": {}
+                }
+              }
+            },
+            "hoyts": {
+              "overall_stats": {
+                "sessions": 0,
+                "locations": 0,
+                "total_seats": 0,
+                "sold_seats": 0,
+                "available_seats": 0,
+                "occupancy_pct": 0.0,
+                "revenue": 0
+              },
+              "locations": {}
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Ustaad Bhagat Singh",
+      "movie_info": {
+        "title": "Ustaad Bhagat Singh",
+        "poster_url": null,
+        "release_date": "",
+        "running_time_mins": null,
+        "director": null,
+        "rating": null,
+        "village_ids": [
+          "HO00016722"
+        ],
+        "ec_versions": [
+          {
+            "label": "Telugu",
+            "ho_code": "HO00018473"
+          }
+        ],
+        "hoyts_ids": [
+          "HO00011088"
+        ]
+      },
+      "overall_stats": {
+        "sessions": 0,
+        "locations": 0,
+        "total_seats": 0,
+        "sold_seats": 0,
+        "available_seats": 0,
+        "occupancy_pct": 0.0,
+        "revenue": 0,
+        "dates_count": 0,
+        "village_sessions": 0,
+        "ec_sessions": 0,
+        "hoyts_sessions": 0,
+        "village_revenue": 0,
+        "ec_revenue": 0,
+        "hoyts_revenue": 0,
+        "ec_language_revenue": {
+          "Telugu": 0
+        }
+      },
+      "dates": []
+    }
+  ]
+}
