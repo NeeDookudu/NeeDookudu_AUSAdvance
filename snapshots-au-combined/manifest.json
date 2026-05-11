@@ -33337,7 +33337,36 @@
           }
         }
       ]
+    },
+    {
+      "file": "20260511T141743Z.json",
+      "fetched_at": "2026-05-11T14:17:43.205378+00:00",
+      "movie_count": 1,
+      "movies": [
+        {
+          "title": "Karuppu",
+          "overall_stats": {
+            "sessions": 304,
+            "locations": 48,
+            "total_seats": 53004,
+            "sold_seats": 1859,
+            "available_seats": 50511,
+            "occupancy_pct": 3.5,
+            "revenue": 45977.0,
+            "dates_count": 7,
+            "village_sessions": 93,
+            "ec_sessions": 138,
+            "hoyts_sessions": 73,
+            "village_revenue": 10504.0,
+            "ec_revenue": 23554.0,
+            "hoyts_revenue": 11919.0,
+            "ec_language_revenue": {
+              "Tamil": 23554.0
+            }
+          }
+        }
+      ]
     }
   ],
-  "updated_at": "2026-05-11T11:54:35.309665+00:00"
+  "updated_at": "2026-05-11T14:17:43.205378+00:00"
 }
