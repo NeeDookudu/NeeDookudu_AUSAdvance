@@ -1,0 +1,4912 @@
+{
+  "fetched_at": "2026-05-14T21:58:32.943230+00:00",
+  "movies": [
+    {
+      "title": "Karuppu",
+      "movie_info": {
+        "title": "Karuppu",
+        "poster_url": "https://imgix.hoyts.com.au/mx/posters/au/karuppu-ae46f86b.jpg",
+        "release_date": "2026-05-14",
+        "running_time_mins": 152,
+        "director": "RJ  Balaji",
+        "rating": "MA15+",
+        "village_ids": [
+          "HO00016510"
+        ],
+        "ec_versions": [
+          {
+            "label": "Tamil",
+            "ho_code": "HO00018304"
+          }
+        ],
+        "hoyts_ids": [
+          "HO00010916"
+        ]
+      },
+      "overall_stats": {
+        "sessions": 165,
+        "locations": 29,
+        "total_seats": 25391,
+        "sold_seats": 2046,
+        "available_seats": 22647,
+        "occupancy_pct": 8.1,
+        "revenue": 51336.75,
+        "dates_count": 6,
+        "village_sessions": 0,
+        "ec_sessions": 97,
+        "hoyts_sessions": 68,
+        "village_revenue": 0,
+        "ec_revenue": 24307.0,
+        "hoyts_revenue": 27029.75,
+        "ec_language_revenue": {
+          "Tamil": 24307.0
+        }
+      },
+      "dates": [
+        {
+          "date": "2026-05-15",
+          "overall_stats": {
+            "sessions": 14,
+            "locations": 13,
+            "total_seats": 1830,
+            "sold_seats": 665,
+            "available_seats": 1098,
+            "occupancy_pct": 36.3,
+            "revenue": 17873.5
+          },
+          "platforms": {
+            "village_cinemas": {
+              "overall_stats": {
+                "sessions": 0,
+                "locations": 0,
+                "total_seats": 0,
+                "sold_seats": 0,
+                "available_seats": 0,
+                "occupancy_pct": 0.0,
+                "revenue": 0
+              },
+              "locations": {}
+            },
+            "event_cinemas": {
+              "overall_stats": {
+                "sessions": 5,
+                "locations": 5,
+                "total_seats": 663,
+                "sold_seats": 41,
+                "available_seats": 612,
+                "occupancy_pct": 6.2,
+                "revenue": 1015.0
+              },
+              "languages": {
+                "Tamil": {
+                  "ho_code": "HO00018304",
+                  "overall_stats": {
+                    "sessions": 5,
+                    "locations": 5,
+                    "total_seats": 663,
+                    "sold_seats": 41,
+                    "available_seats": 612,
+                    "occupancy_pct": 6.2,
+                    "revenue": 1015.0
+                  },
+                  "locations": {
+                    "22": {
+                      "cinema_name": "Marion",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 101,
+                        "sold_seats": 2,
+                        "available_seats": 97,
+                        "occupancy_pct": 2.0,
+                        "revenue": 56.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15361923,
+                          "stats": {
+                            "total_seats": 101,
+                            "available_seats": 97,
+                            "sold_seats": 2,
+                            "wheelchair_seats": 2,
+                            "occupancy_pct": 2.0,
+                            "revenue": 56.0
+                          },
+                          "start_time": "2026-05-15T20:50",
+                          "screen_type": "Std",
+                          "screen_name": "4",
+                          "adult_price": 28.0
+                        }
+                      ]
+                    },
+                    "38": {
+                      "cinema_name": "Maroochydore Sunshine Plaza",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 187,
+                        "sold_seats": 7,
+                        "available_seats": 177,
+                        "occupancy_pct": 3.7,
+                        "revenue": 175.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15362530,
+                          "stats": {
+                            "total_seats": 187,
+                            "available_seats": 177,
+                            "sold_seats": 7,
+                            "wheelchair_seats": 3,
+                            "occupancy_pct": 3.7,
+                            "revenue": 175.0
+                          },
+                          "start_time": "2026-05-15T21:00",
+                          "screen_type": "Std",
+                          "screen_name": "2",
+                          "adult_price": 25.0
+                        }
+                      ]
+                    },
+                    "58": {
+                      "cinema_name": "Burwood",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 147,
+                        "sold_seats": 16,
+                        "available_seats": 130,
+                        "occupancy_pct": 10.9,
+                        "revenue": 384.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15356803,
+                          "stats": {
+                            "total_seats": 147,
+                            "available_seats": 130,
+                            "sold_seats": 16,
+                            "wheelchair_seats": 1,
+                            "occupancy_pct": 10.9,
+                            "revenue": 384.0
+                          },
+                          "start_time": "2026-05-15T21:00",
+                          "screen_type": "Std",
+                          "screen_name": "5",
+                          "adult_price": 24.0
+                        }
+                      ]
+                    },
+                    "62": {
+                      "cinema_name": "Hornsby",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 156,
+                        "sold_seats": 16,
+                        "available_seats": 138,
+                        "occupancy_pct": 10.3,
+                        "revenue": 400.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15363291,
+                          "stats": {
+                            "total_seats": 156,
+                            "available_seats": 138,
+                            "sold_seats": 16,
+                            "wheelchair_seats": 2,
+                            "occupancy_pct": 10.3,
+                            "revenue": 400.0
+                          },
+                          "start_time": "2026-05-15T21:00",
+                          "screen_type": "Std",
+                          "screen_name": "8",
+                          "adult_price": 25.0
+                        }
+                      ]
+                    },
+                    "63": {
+                      "cinema_name": "Shellharbour",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 72,
+                        "sold_seats": 0,
+                        "available_seats": 70,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15364572,
+                          "stats": {
+                            "total_seats": 72,
+                            "available_seats": 70,
+                            "sold_seats": 0,
+                            "wheelchair_seats": 2,
+                            "occupancy_pct": 0.0,
+                            "revenue": 0.0
+                          },
+                          "start_time": "2026-05-15T15:15",
+                          "screen_type": "Std",
+                          "screen_name": "8",
+                          "adult_price": 25.0
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            },
+            "hoyts": {
+              "overall_stats": {
+                "sessions": 9,
+                "locations": 8,
+                "total_seats": 1167,
+                "sold_seats": 624,
+                "available_seats": 486,
+                "occupancy_pct": 53.5,
+                "revenue": 16858.5
+              },
+              "locations": {
+                "ARNCIN": {
+                  "cinema_name": "ARNCIN",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 148,
+                    "sold_seats": 70,
+                    "available_seats": 78,
+                    "occupancy_pct": 47.3,
+                    "revenue": 1230.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 84138,
+                      "stats": {
+                        "total_seats": 148,
+                        "sold_seats": 70,
+                        "unavailable": 0,
+                        "available_seats": 78,
+                        "occupancy_pct": 47.3,
+                        "revenue": 1230.0
+                      },
+                      "start_time": "2026-05-15T21:00:00",
+                      "screen": "Cinema 04"
+                    }
+                  ]
+                },
+                "BELCON": {
+                  "cinema_name": "BELCON",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 91,
+                    "sold_seats": 52,
+                    "available_seats": 37,
+                    "occupancy_pct": 57.1,
+                    "revenue": 1430.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 361728,
+                      "stats": {
+                        "total_seats": 91,
+                        "sold_seats": 52,
+                        "unavailable": 2,
+                        "available_seats": 37,
+                        "occupancy_pct": 58.4,
+                        "revenue": 1430.0
+                      },
+                      "start_time": "2026-05-15T21:00:00",
+                      "screen": "Cinema 03"
+                    }
+                  ]
+                },
+                "CAROUS": {
+                  "cinema_name": "CAROUS",
+                  "overall_stats": {
+                    "sessions": 2,
+                    "locations": 1,
+                    "total_seats": 254,
+                    "sold_seats": 188,
+                    "available_seats": 59,
+                    "occupancy_pct": 74.0,
+                    "revenue": 4982.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 519990,
+                      "stats": {
+                        "total_seats": 135,
+                        "sold_seats": 109,
+                        "unavailable": 3,
+                        "available_seats": 23,
+                        "occupancy_pct": 82.6,
+                        "revenue": 2888.5
+                      },
+                      "start_time": "2026-05-15T21:00:00",
+                      "screen": "Cinema 15"
+                    },
+                    {
+                      "session_id": 520387,
+                      "stats": {
+                        "total_seats": 119,
+                        "sold_seats": 79,
+                        "unavailable": 4,
+                        "available_seats": 36,
+                        "occupancy_pct": 68.7,
+                        "revenue": 2093.5
+                      },
+                      "start_time": "2026-05-15T21:15:00",
+                      "screen": "Cinema 10"
+                    }
+                  ]
+                },
+                "DOCCIN": {
+                  "cinema_name": "DOCCIN",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 288,
+                    "sold_seats": 152,
+                    "available_seats": 134,
+                    "occupancy_pct": 52.8,
+                    "revenue": 5001.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 152998,
+                      "stats": {
+                        "total_seats": 288,
+                        "sold_seats": 152,
+                        "unavailable": 2,
+                        "available_seats": 134,
+                        "occupancy_pct": 53.1,
+                        "revenue": 5001.0
+                      },
+                      "start_time": "2026-05-15T21:10:00",
+                      "screen": "Xtremescreen 02"
+                    }
+                  ]
+                },
+                "PENRTH": {
+                  "cinema_name": "PENRTH",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 174,
+                    "sold_seats": 26,
+                    "available_seats": 124,
+                    "occupancy_pct": 14.9,
+                    "revenue": 487.5
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 372969,
+                      "stats": {
+                        "total_seats": 174,
+                        "sold_seats": 26,
+                        "unavailable": 24,
+                        "available_seats": 124,
+                        "occupancy_pct": 17.3,
+                        "revenue": 487.5
+                      },
+                      "start_time": "2026-05-15T21:00:00",
+                      "screen": "Cinema 05"
+                    }
+                  ]
+                },
+                "SUNBNK": {
+                  "cinema_name": "SUNBNK",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 75,
+                    "sold_seats": 40,
+                    "available_seats": 27,
+                    "occupancy_pct": 53.3,
+                    "revenue": 1040.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 260234,
+                      "stats": {
+                        "total_seats": 75,
+                        "sold_seats": 40,
+                        "unavailable": 8,
+                        "available_seats": 27,
+                        "occupancy_pct": 59.7,
+                        "revenue": 1040.0
+                      },
+                      "start_time": "2026-05-15T21:00:00",
+                      "screen": "Cinema 01"
+                    }
+                  ]
+                },
+                "WESCIN": {
+                  "cinema_name": "WESCIN",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 81,
+                    "sold_seats": 56,
+                    "available_seats": 14,
+                    "occupancy_pct": 69.1,
+                    "revenue": 1568.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 374082,
+                      "stats": {
+                        "total_seats": 81,
+                        "sold_seats": 56,
+                        "unavailable": 11,
+                        "available_seats": 14,
+                        "occupancy_pct": 80.0,
+                        "revenue": 1568.0
+                      },
+                      "start_time": "2026-05-15T21:15:00",
+                      "screen": "Cinema 09"
+                    }
+                  ]
+                },
+                "WETHER": {
+                  "cinema_name": "WETHER",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 56,
+                    "sold_seats": 40,
+                    "available_seats": 13,
+                    "occupancy_pct": 71.4,
+                    "revenue": 1120.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 446554,
+                      "stats": {
+                        "total_seats": 56,
+                        "sold_seats": 40,
+                        "unavailable": 3,
+                        "available_seats": 13,
+                        "occupancy_pct": 75.5,
+                        "revenue": 1120.0
+                      },
+                      "start_time": "2026-05-15T21:00:00",
+                      "screen": "Cinema 07"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "date": "2026-05-16",
+          "overall_stats": {
+            "sessions": 33,
+            "locations": 29,
+            "total_seats": 5202,
+            "sold_seats": 792,
+            "available_seats": 4272,
+            "occupancy_pct": 15.2,
+            "revenue": 19419.75
+          },
+          "platforms": {
+            "village_cinemas": {
+              "overall_stats": {
+                "sessions": 0,
+                "locations": 0,
+                "total_seats": 0,
+                "sold_seats": 0,
+                "available_seats": 0,
+                "occupancy_pct": 0.0,
+                "revenue": 0
+              },
+              "locations": {}
+            },
+            "event_cinemas": {
+              "overall_stats": {
+                "sessions": 20,
+                "locations": 17,
+                "total_seats": 3854,
+                "sold_seats": 472,
+                "available_seats": 3328,
+                "occupancy_pct": 12.2,
+                "revenue": 11274.0
+              },
+              "languages": {
+                "Tamil": {
+                  "ho_code": "HO00018304",
+                  "overall_stats": {
+                    "sessions": 20,
+                    "locations": 17,
+                    "total_seats": 3854,
+                    "sold_seats": 472,
+                    "available_seats": 3328,
+                    "occupancy_pct": 12.2,
+                    "revenue": 11274.0
+                  },
+                  "locations": {
+                    "17": {
+                      "cinema_name": "Innaloo",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 209,
+                        "sold_seats": 35,
+                        "available_seats": 170,
+                        "occupancy_pct": 16.7,
+                        "revenue": 980.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15355784,
+                          "stats": {
+                            "total_seats": 209,
+                            "available_seats": 170,
+                            "sold_seats": 35,
+                            "wheelchair_seats": 4,
+                            "occupancy_pct": 16.7,
+                            "revenue": 980.0
+                          },
+                          "start_time": "2026-05-16T21:00",
+                          "screen_type": "Std",
+                          "screen_name": "7",
+                          "adult_price": 28.0
+                        }
+                      ]
+                    },
+                    "19": {
+                      "cinema_name": "Liverpool",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 173,
+                        "sold_seats": 55,
+                        "available_seats": 117,
+                        "occupancy_pct": 31.8,
+                        "revenue": 770.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15367056,
+                          "stats": {
+                            "total_seats": 173,
+                            "available_seats": 117,
+                            "sold_seats": 55,
+                            "wheelchair_seats": 1,
+                            "occupancy_pct": 31.8,
+                            "revenue": 770.0
+                          },
+                          "start_time": "2026-05-16T18:15",
+                          "screen_type": "Std",
+                          "screen_name": "7",
+                          "adult_price": 14.0
+                        }
+                      ]
+                    },
+                    "21": {
+                      "cinema_name": "Glendale",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 144,
+                        "sold_seats": 17,
+                        "available_seats": 125,
+                        "occupancy_pct": 11.8,
+                        "revenue": 323.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15357199,
+                          "stats": {
+                            "total_seats": 144,
+                            "available_seats": 125,
+                            "sold_seats": 17,
+                            "wheelchair_seats": 2,
+                            "occupancy_pct": 11.8,
+                            "revenue": 323.0
+                          },
+                          "start_time": "2026-05-16T21:00",
+                          "screen_type": "Std",
+                          "screen_name": "5",
+                          "adult_price": 19.0
+                        }
+                      ]
+                    },
+                    "22": {
+                      "cinema_name": "Marion",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 101,
+                        "sold_seats": 4,
+                        "available_seats": 95,
+                        "occupancy_pct": 4.0,
+                        "revenue": 112.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15362001,
+                          "stats": {
+                            "total_seats": 101,
+                            "available_seats": 95,
+                            "sold_seats": 4,
+                            "wheelchair_seats": 2,
+                            "occupancy_pct": 4.0,
+                            "revenue": 112.0
+                          },
+                          "start_time": "2026-05-16T20:50",
+                          "screen_type": "Std",
+                          "screen_name": "4",
+                          "adult_price": 28.0
+                        }
+                      ]
+                    },
+                    "24": {
+                      "cinema_name": "Australia Fair",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 151,
+                        "sold_seats": 2,
+                        "available_seats": 146,
+                        "occupancy_pct": 1.3,
+                        "revenue": 40.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15366391,
+                          "stats": {
+                            "total_seats": 151,
+                            "available_seats": 146,
+                            "sold_seats": 2,
+                            "wheelchair_seats": 3,
+                            "occupancy_pct": 1.3,
+                            "revenue": 40.0
+                          },
+                          "start_time": "2026-05-16T18:00",
+                          "screen_type": "Std",
+                          "screen_name": "5",
+                          "adult_price": 20.0
+                        }
+                      ]
+                    },
+                    "38": {
+                      "cinema_name": "Maroochydore Sunshine Plaza",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 187,
+                        "sold_seats": 7,
+                        "available_seats": 177,
+                        "occupancy_pct": 3.7,
+                        "revenue": 175.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15362480,
+                          "stats": {
+                            "total_seats": 187,
+                            "available_seats": 177,
+                            "sold_seats": 7,
+                            "wheelchair_seats": 3,
+                            "occupancy_pct": 3.7,
+                            "revenue": 175.0
+                          },
+                          "start_time": "2026-05-16T21:00",
+                          "screen_type": "Std",
+                          "screen_name": "2",
+                          "adult_price": 25.0
+                        }
+                      ]
+                    },
+                    "48": {
+                      "cinema_name": "Indooroopilly",
+                      "overall_stats": {
+                        "sessions": 2,
+                        "locations": 1,
+                        "total_seats": 305,
+                        "sold_seats": 14,
+                        "available_seats": 285,
+                        "occupancy_pct": 4.6,
+                        "revenue": 336.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15357371,
+                          "stats": {
+                            "total_seats": 157,
+                            "available_seats": 148,
+                            "sold_seats": 6,
+                            "wheelchair_seats": 3,
+                            "occupancy_pct": 3.8,
+                            "revenue": 144.0
+                          },
+                          "start_time": "2026-05-16T15:00",
+                          "screen_type": "Std",
+                          "screen_name": "4",
+                          "adult_price": 24.0
+                        },
+                        {
+                          "session_id": 15357383,
+                          "stats": {
+                            "total_seats": 148,
+                            "available_seats": 137,
+                            "sold_seats": 8,
+                            "wheelchair_seats": 3,
+                            "occupancy_pct": 5.4,
+                            "revenue": 192.0
+                          },
+                          "start_time": "2026-05-16T20:40",
+                          "screen_type": "Std",
+                          "screen_name": "12",
+                          "adult_price": 24.0
+                        }
+                      ]
+                    },
+                    "49": {
+                      "cinema_name": "Mt Gravatt",
+                      "overall_stats": {
+                        "sessions": 2,
+                        "locations": 1,
+                        "total_seats": 914,
+                        "sold_seats": 86,
+                        "available_seats": 820,
+                        "occupancy_pct": 9.4,
+                        "revenue": 2064.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15353899,
+                          "stats": {
+                            "total_seats": 457,
+                            "available_seats": 393,
+                            "sold_seats": 60,
+                            "wheelchair_seats": 4,
+                            "occupancy_pct": 13.1,
+                            "revenue": 1440.0
+                          },
+                          "start_time": "2026-05-16T17:40",
+                          "screen_type": "Std",
+                          "screen_name": "10",
+                          "adult_price": 24.0
+                        },
+                        {
+                          "session_id": 15354631,
+                          "stats": {
+                            "total_seats": 457,
+                            "available_seats": 427,
+                            "sold_seats": 26,
+                            "wheelchair_seats": 4,
+                            "occupancy_pct": 5.7,
+                            "revenue": 624.0
+                          },
+                          "start_time": "2026-05-16T21:00",
+                          "screen_type": "Std",
+                          "screen_name": "10",
+                          "adult_price": 24.0
+                        }
+                      ]
+                    },
+                    "53": {
+                      "cinema_name": "Castle Hill",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 78,
+                        "sold_seats": 32,
+                        "available_seats": 43,
+                        "occupancy_pct": 41.0,
+                        "revenue": 832.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15356027,
+                          "stats": {
+                            "total_seats": 78,
+                            "available_seats": 43,
+                            "sold_seats": 32,
+                            "wheelchair_seats": 3,
+                            "occupancy_pct": 41.0,
+                            "revenue": 832.0
+                          },
+                          "start_time": "2026-05-16T21:10",
+                          "screen_type": "Std",
+                          "screen_name": "9",
+                          "adult_price": 26.0
+                        }
+                      ]
+                    },
+                    "58": {
+                      "cinema_name": "Burwood",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 147,
+                        "sold_seats": 28,
+                        "available_seats": 118,
+                        "occupancy_pct": 19.0,
+                        "revenue": 672.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15356781,
+                          "stats": {
+                            "total_seats": 147,
+                            "available_seats": 118,
+                            "sold_seats": 28,
+                            "wheelchair_seats": 1,
+                            "occupancy_pct": 19.0,
+                            "revenue": 672.0
+                          },
+                          "start_time": "2026-05-16T21:00",
+                          "screen_type": "Std",
+                          "screen_name": "5",
+                          "adult_price": 24.0
+                        }
+                      ]
+                    },
+                    "62": {
+                      "cinema_name": "Hornsby",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 176,
+                        "sold_seats": 5,
+                        "available_seats": 169,
+                        "occupancy_pct": 2.8,
+                        "revenue": 125.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15363474,
+                          "stats": {
+                            "total_seats": 176,
+                            "available_seats": 169,
+                            "sold_seats": 5,
+                            "wheelchair_seats": 2,
+                            "occupancy_pct": 2.8,
+                            "revenue": 125.0
+                          },
+                          "start_time": "2026-05-16T21:00",
+                          "screen_type": "Std",
+                          "screen_name": "1",
+                          "adult_price": 25.0
+                        }
+                      ]
+                    },
+                    "63": {
+                      "cinema_name": "Shellharbour",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 72,
+                        "sold_seats": 0,
+                        "available_seats": 70,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15364541,
+                          "stats": {
+                            "total_seats": 72,
+                            "available_seats": 70,
+                            "sold_seats": 0,
+                            "wheelchair_seats": 2,
+                            "occupancy_pct": 0.0,
+                            "revenue": 0.0
+                          },
+                          "start_time": "2026-05-16T15:00",
+                          "screen_type": "Std",
+                          "screen_name": "8",
+                          "adult_price": 25.0
+                        }
+                      ]
+                    },
+                    "66": {
+                      "cinema_name": "Parramatta",
+                      "overall_stats": {
+                        "sessions": 2,
+                        "locations": 1,
+                        "total_seats": 634,
+                        "sold_seats": 159,
+                        "available_seats": 467,
+                        "occupancy_pct": 25.1,
+                        "revenue": 4134.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15362930,
+                          "stats": {
+                            "total_seats": 317,
+                            "available_seats": 185,
+                            "sold_seats": 128,
+                            "wheelchair_seats": 4,
+                            "occupancy_pct": 40.4,
+                            "revenue": 3328.0
+                          },
+                          "start_time": "2026-05-16T17:40",
+                          "screen_type": "Std",
+                          "screen_name": "6",
+                          "adult_price": 26.0
+                        },
+                        {
+                          "session_id": 15362931,
+                          "stats": {
+                            "total_seats": 317,
+                            "available_seats": 282,
+                            "sold_seats": 31,
+                            "wheelchair_seats": 4,
+                            "occupancy_pct": 9.8,
+                            "revenue": 806.0
+                          },
+                          "start_time": "2026-05-16T21:00",
+                          "screen_type": "Std",
+                          "screen_name": "6",
+                          "adult_price": 26.0
+                        }
+                      ]
+                    },
+                    "69": {
+                      "cinema_name": "Top Ryde City",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 139,
+                        "sold_seats": 3,
+                        "available_seats": 134,
+                        "occupancy_pct": 2.2,
+                        "revenue": 72.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15364832,
+                          "stats": {
+                            "total_seats": 139,
+                            "available_seats": 134,
+                            "sold_seats": 3,
+                            "wheelchair_seats": 2,
+                            "occupancy_pct": 2.2,
+                            "revenue": 72.0
+                          },
+                          "start_time": "2026-05-16T20:50",
+                          "screen_type": "Std",
+                          "screen_name": "4",
+                          "adult_price": 24.0
+                        }
+                      ]
+                    },
+                    "86": {
+                      "cinema_name": "North Lakes",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 216,
+                        "sold_seats": 8,
+                        "available_seats": 205,
+                        "occupancy_pct": 3.7,
+                        "revenue": 192.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15360461,
+                          "stats": {
+                            "total_seats": 216,
+                            "available_seats": 205,
+                            "sold_seats": 8,
+                            "wheelchair_seats": 3,
+                            "occupancy_pct": 3.7,
+                            "revenue": 192.0
+                          },
+                          "start_time": "2026-05-16T20:20",
+                          "screen_type": "Std",
+                          "screen_name": "2",
+                          "adult_price": 24.0
+                        }
+                      ]
+                    },
+                    "89": {
+                      "cinema_name": "Cairns Smithfield",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 147,
+                        "sold_seats": 4,
+                        "available_seats": 141,
+                        "occupancy_pct": 2.7,
+                        "revenue": 96.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15363197,
+                          "stats": {
+                            "total_seats": 147,
+                            "available_seats": 141,
+                            "sold_seats": 4,
+                            "wheelchair_seats": 2,
+                            "occupancy_pct": 2.7,
+                            "revenue": 96.0
+                          },
+                          "start_time": "2026-05-16T20:20",
+                          "screen_type": "Std",
+                          "screen_name": "2",
+                          "adult_price": 24.0
+                        }
+                      ]
+                    },
+                    "94": {
+                      "cinema_name": "Ed Square",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 61,
+                        "sold_seats": 13,
+                        "available_seats": 46,
+                        "occupancy_pct": 21.3,
+                        "revenue": 351.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15361414,
+                          "stats": {
+                            "total_seats": 61,
+                            "available_seats": 46,
+                            "sold_seats": 13,
+                            "wheelchair_seats": 2,
+                            "occupancy_pct": 21.3,
+                            "revenue": 351.0
+                          },
+                          "start_time": "2026-05-16T21:00",
+                          "screen_type": "Std",
+                          "screen_name": "4",
+                          "adult_price": 27.0
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            },
+            "hoyts": {
+              "overall_stats": {
+                "sessions": 13,
+                "locations": 12,
+                "total_seats": 1348,
+                "sold_seats": 320,
+                "available_seats": 944,
+                "occupancy_pct": 23.7,
+                "revenue": 8145.75
+              },
+              "locations": {
+                "ARNCIN": {
+                  "cinema_name": "ARNCIN",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 148,
+                    "sold_seats": 41,
+                    "available_seats": 107,
+                    "occupancy_pct": 27.7,
+                    "revenue": 730.5
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 84193,
+                      "stats": {
+                        "total_seats": 148,
+                        "sold_seats": 41,
+                        "unavailable": 0,
+                        "available_seats": 107,
+                        "occupancy_pct": 27.7,
+                        "revenue": 730.5
+                      },
+                      "start_time": "2026-05-16T21:00:00",
+                      "screen": "Cinema 04"
+                    }
+                  ]
+                },
+                "BANKTN": {
+                  "cinema_name": "BANKTN",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 65,
+                    "sold_seats": 0,
+                    "available_seats": 56,
+                    "occupancy_pct": 0.0,
+                    "revenue": 0.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 346611,
+                      "stats": {
+                        "total_seats": 65,
+                        "sold_seats": 0,
+                        "unavailable": 9,
+                        "available_seats": 56,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "start_time": "2026-05-16T20:50:00",
+                      "screen": "Cinema 01"
+                    }
+                  ]
+                },
+                "BELCON": {
+                  "cinema_name": "BELCON",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 91,
+                    "sold_seats": 18,
+                    "available_seats": 71,
+                    "occupancy_pct": 19.8,
+                    "revenue": 495.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 361895,
+                      "stats": {
+                        "total_seats": 91,
+                        "sold_seats": 18,
+                        "unavailable": 2,
+                        "available_seats": 71,
+                        "occupancy_pct": 20.2,
+                        "revenue": 495.0
+                      },
+                      "start_time": "2026-05-16T21:00:00",
+                      "screen": "Cinema 03"
+                    }
+                  ]
+                },
+                "CAROUS": {
+                  "cinema_name": "CAROUS",
+                  "overall_stats": {
+                    "sessions": 2,
+                    "locations": 1,
+                    "total_seats": 254,
+                    "sold_seats": 132,
+                    "available_seats": 117,
+                    "occupancy_pct": 52.0,
+                    "revenue": 3498.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 520276,
+                      "stats": {
+                        "total_seats": 135,
+                        "sold_seats": 75,
+                        "unavailable": 3,
+                        "available_seats": 57,
+                        "occupancy_pct": 56.8,
+                        "revenue": 1987.5
+                      },
+                      "start_time": "2026-05-16T21:00:00",
+                      "screen": "Cinema 15"
+                    },
+                    {
+                      "session_id": 520388,
+                      "stats": {
+                        "total_seats": 119,
+                        "sold_seats": 57,
+                        "unavailable": 2,
+                        "available_seats": 60,
+                        "occupancy_pct": 48.7,
+                        "revenue": 1510.5
+                      },
+                      "start_time": "2026-05-16T21:30:00",
+                      "screen": "Cinema 08"
+                    }
+                  ]
+                },
+                "DOCCIN": {
+                  "cinema_name": "DOCCIN",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 57,
+                    "sold_seats": 14,
+                    "available_seats": 41,
+                    "occupancy_pct": 24.6,
+                    "revenue": 392.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 153034,
+                      "stats": {
+                        "total_seats": 57,
+                        "sold_seats": 14,
+                        "unavailable": 2,
+                        "available_seats": 41,
+                        "occupancy_pct": 25.5,
+                        "revenue": 392.0
+                      },
+                      "start_time": "2026-05-16T20:30:00",
+                      "screen": "Cinema 03"
+                    }
+                  ]
+                },
+                "HIGPNT": {
+                  "cinema_name": "HIGPNT",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 96,
+                    "sold_seats": 18,
+                    "available_seats": 76,
+                    "occupancy_pct": 18.8,
+                    "revenue": 504.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 539240,
+                      "stats": {
+                        "total_seats": 96,
+                        "sold_seats": 18,
+                        "unavailable": 2,
+                        "available_seats": 76,
+                        "occupancy_pct": 19.1,
+                        "revenue": 504.0
+                      },
+                      "start_time": "2026-05-16T20:50:00",
+                      "screen": "Cinema 10"
+                    }
+                  ]
+                },
+                "PENRTH": {
+                  "cinema_name": "PENRTH",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 174,
+                    "sold_seats": 5,
+                    "available_seats": 145,
+                    "occupancy_pct": 2.9,
+                    "revenue": 93.75
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 373013,
+                      "stats": {
+                        "total_seats": 174,
+                        "sold_seats": 5,
+                        "unavailable": 24,
+                        "available_seats": 145,
+                        "occupancy_pct": 3.3,
+                        "revenue": 93.75
+                      },
+                      "start_time": "2026-05-16T20:45:00",
+                      "screen": "Cinema 05"
+                    }
+                  ]
+                },
+                "SLYCIN": {
+                  "cinema_name": "SLYCIN",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 63,
+                    "sold_seats": 12,
+                    "available_seats": 49,
+                    "occupancy_pct": 19.0,
+                    "revenue": 252.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 300734,
+                      "stats": {
+                        "total_seats": 63,
+                        "sold_seats": 12,
+                        "unavailable": 2,
+                        "available_seats": 49,
+                        "occupancy_pct": 19.7,
+                        "revenue": 252.0
+                      },
+                      "start_time": "2026-05-16T20:45:00",
+                      "screen": "Cinema 07"
+                    }
+                  ]
+                },
+                "SUNBNK": {
+                  "cinema_name": "SUNBNK",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 75,
+                    "sold_seats": 0,
+                    "available_seats": 67,
+                    "occupancy_pct": 0.0,
+                    "revenue": 0.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 260270,
+                      "stats": {
+                        "total_seats": 75,
+                        "sold_seats": 0,
+                        "unavailable": 8,
+                        "available_seats": 67,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "start_time": "2026-05-16T21:00:00",
+                      "screen": "Cinema 01"
+                    }
+                  ]
+                },
+                "WARCIN": {
+                  "cinema_name": "WARCIN",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 174,
+                    "sold_seats": 7,
+                    "available_seats": 165,
+                    "occupancy_pct": 4.0,
+                    "revenue": 136.5
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 53353,
+                      "stats": {
+                        "total_seats": 174,
+                        "sold_seats": 7,
+                        "unavailable": 2,
+                        "available_seats": 165,
+                        "occupancy_pct": 4.1,
+                        "revenue": 136.5
+                      },
+                      "start_time": "2026-05-16T20:20:00",
+                      "screen": "Cinema 06"
+                    }
+                  ]
+                },
+                "WESCIN": {
+                  "cinema_name": "WESCIN",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 95,
+                    "sold_seats": 50,
+                    "available_seats": 20,
+                    "occupancy_pct": 52.6,
+                    "revenue": 1400.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 374117,
+                      "stats": {
+                        "total_seats": 95,
+                        "sold_seats": 50,
+                        "unavailable": 25,
+                        "available_seats": 20,
+                        "occupancy_pct": 71.4,
+                        "revenue": 1400.0
+                      },
+                      "start_time": "2026-05-16T21:20:00",
+                      "screen": "Cinema 04"
+                    }
+                  ]
+                },
+                "WETHER": {
+                  "cinema_name": "WETHER",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 56,
+                    "sold_seats": 23,
+                    "available_seats": 30,
+                    "occupancy_pct": 41.1,
+                    "revenue": 644.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 446608,
+                      "stats": {
+                        "total_seats": 56,
+                        "sold_seats": 23,
+                        "unavailable": 3,
+                        "available_seats": 30,
+                        "occupancy_pct": 43.4,
+                        "revenue": 644.0
+                      },
+                      "start_time": "2026-05-16T21:00:00",
+                      "screen": "Cinema 07"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "date": "2026-05-17",
+          "overall_stats": {
+            "sessions": 29,
+            "locations": 28,
+            "total_seats": 4439,
+            "sold_seats": 187,
+            "available_seats": 4129,
+            "occupancy_pct": 4.2,
+            "revenue": 4576.5
+          },
+          "platforms": {
+            "village_cinemas": {
+              "overall_stats": {
+                "sessions": 0,
+                "locations": 0,
+                "total_seats": 0,
+                "sold_seats": 0,
+                "available_seats": 0,
+                "occupancy_pct": 0.0,
+                "revenue": 0
+              },
+              "locations": {}
+            },
+            "event_cinemas": {
+              "overall_stats": {
+                "sessions": 17,
+                "locations": 16,
+                "total_seats": 3163,
+                "sold_seats": 154,
+                "available_seats": 2961,
+                "occupancy_pct": 4.9,
+                "revenue": 3667.0
+              },
+              "languages": {
+                "Tamil": {
+                  "ho_code": "HO00018304",
+                  "overall_stats": {
+                    "sessions": 17,
+                    "locations": 16,
+                    "total_seats": 3163,
+                    "sold_seats": 154,
+                    "available_seats": 2961,
+                    "occupancy_pct": 4.9,
+                    "revenue": 3667.0
+                  },
+                  "locations": {
+                    "17": {
+                      "cinema_name": "Innaloo",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 209,
+                        "sold_seats": 11,
+                        "available_seats": 194,
+                        "occupancy_pct": 5.3,
+                        "revenue": 308.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15355811,
+                          "stats": {
+                            "total_seats": 209,
+                            "available_seats": 194,
+                            "sold_seats": 11,
+                            "wheelchair_seats": 4,
+                            "occupancy_pct": 5.3,
+                            "revenue": 308.0
+                          },
+                          "start_time": "2026-05-17T21:00",
+                          "screen_type": "Std",
+                          "screen_name": "7",
+                          "adult_price": 28.0
+                        }
+                      ]
+                    },
+                    "19": {
+                      "cinema_name": "Liverpool",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 287,
+                        "sold_seats": 19,
+                        "available_seats": 264,
+                        "occupancy_pct": 6.6,
+                        "revenue": 266.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15367057,
+                          "stats": {
+                            "total_seats": 287,
+                            "available_seats": 264,
+                            "sold_seats": 19,
+                            "wheelchair_seats": 4,
+                            "occupancy_pct": 6.6,
+                            "revenue": 266.0
+                          },
+                          "start_time": "2026-05-17T15:45",
+                          "screen_type": "Std",
+                          "screen_name": "9",
+                          "adult_price": 14.0
+                        }
+                      ]
+                    },
+                    "22": {
+                      "cinema_name": "Marion",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 86,
+                        "sold_seats": 1,
+                        "available_seats": 82,
+                        "occupancy_pct": 1.2,
+                        "revenue": 28.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15362062,
+                          "stats": {
+                            "total_seats": 86,
+                            "available_seats": 82,
+                            "sold_seats": 1,
+                            "wheelchair_seats": 3,
+                            "occupancy_pct": 1.2,
+                            "revenue": 28.0
+                          },
+                          "start_time": "2026-05-17T21:05",
+                          "screen_type": "Std",
+                          "screen_name": "2",
+                          "adult_price": 28.0
+                        }
+                      ]
+                    },
+                    "24": {
+                      "cinema_name": "Australia Fair",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 174,
+                        "sold_seats": 1,
+                        "available_seats": 170,
+                        "occupancy_pct": 0.6,
+                        "revenue": 20.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15366498,
+                          "stats": {
+                            "total_seats": 174,
+                            "available_seats": 170,
+                            "sold_seats": 1,
+                            "wheelchair_seats": 3,
+                            "occupancy_pct": 0.6,
+                            "revenue": 20.0
+                          },
+                          "start_time": "2026-05-17T18:10",
+                          "screen_type": "Std",
+                          "screen_name": "6",
+                          "adult_price": 20.0
+                        }
+                      ]
+                    },
+                    "38": {
+                      "cinema_name": "Maroochydore Sunshine Plaza",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 145,
+                        "sold_seats": 4,
+                        "available_seats": 139,
+                        "occupancy_pct": 2.8,
+                        "revenue": 100.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15362633,
+                          "stats": {
+                            "total_seats": 145,
+                            "available_seats": 139,
+                            "sold_seats": 4,
+                            "wheelchair_seats": 2,
+                            "occupancy_pct": 2.8,
+                            "revenue": 100.0
+                          },
+                          "start_time": "2026-05-17T17:00",
+                          "screen_type": "Std",
+                          "screen_name": "3",
+                          "adult_price": 25.0
+                        }
+                      ]
+                    },
+                    "48": {
+                      "cinema_name": "Indooroopilly",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 148,
+                        "sold_seats": 9,
+                        "available_seats": 136,
+                        "occupancy_pct": 6.1,
+                        "revenue": 216.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15357498,
+                          "stats": {
+                            "total_seats": 148,
+                            "available_seats": 136,
+                            "sold_seats": 9,
+                            "wheelchair_seats": 3,
+                            "occupancy_pct": 6.1,
+                            "revenue": 216.0
+                          },
+                          "start_time": "2026-05-17T18:00",
+                          "screen_type": "Std",
+                          "screen_name": "12",
+                          "adult_price": 24.0
+                        }
+                      ]
+                    },
+                    "49": {
+                      "cinema_name": "Mt Gravatt",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 457,
+                        "sold_seats": 22,
+                        "available_seats": 431,
+                        "occupancy_pct": 4.8,
+                        "revenue": 528.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15354898,
+                          "stats": {
+                            "total_seats": 457,
+                            "available_seats": 431,
+                            "sold_seats": 22,
+                            "wheelchair_seats": 4,
+                            "occupancy_pct": 4.8,
+                            "revenue": 528.0
+                          },
+                          "start_time": "2026-05-17T21:00",
+                          "screen_type": "Std",
+                          "screen_name": "10",
+                          "adult_price": 24.0
+                        }
+                      ]
+                    },
+                    "53": {
+                      "cinema_name": "Castle Hill",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 78,
+                        "sold_seats": 0,
+                        "available_seats": 75,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15356083,
+                          "stats": {
+                            "total_seats": 78,
+                            "available_seats": 75,
+                            "sold_seats": 0,
+                            "wheelchair_seats": 3,
+                            "occupancy_pct": 0.0,
+                            "revenue": 0.0
+                          },
+                          "start_time": "2026-05-17T21:10",
+                          "screen_type": "Std",
+                          "screen_name": "9",
+                          "adult_price": 26.0
+                        }
+                      ]
+                    },
+                    "58": {
+                      "cinema_name": "Burwood",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 133,
+                        "sold_seats": 9,
+                        "available_seats": 123,
+                        "occupancy_pct": 6.8,
+                        "revenue": 216.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15356910,
+                          "stats": {
+                            "total_seats": 133,
+                            "available_seats": 123,
+                            "sold_seats": 9,
+                            "wheelchair_seats": 1,
+                            "occupancy_pct": 6.8,
+                            "revenue": 216.0
+                          },
+                          "start_time": "2026-05-17T21:00",
+                          "screen_type": "Std",
+                          "screen_name": "4",
+                          "adult_price": 24.0
+                        }
+                      ]
+                    },
+                    "62": {
+                      "cinema_name": "Hornsby",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 176,
+                        "sold_seats": 7,
+                        "available_seats": 167,
+                        "occupancy_pct": 4.0,
+                        "revenue": 175.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15363436,
+                          "stats": {
+                            "total_seats": 176,
+                            "available_seats": 167,
+                            "sold_seats": 7,
+                            "wheelchair_seats": 2,
+                            "occupancy_pct": 4.0,
+                            "revenue": 175.0
+                          },
+                          "start_time": "2026-05-17T15:00",
+                          "screen_type": "Std",
+                          "screen_name": "1",
+                          "adult_price": 25.0
+                        }
+                      ]
+                    },
+                    "63": {
+                      "cinema_name": "Shellharbour",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 72,
+                        "sold_seats": 0,
+                        "available_seats": 70,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15364642,
+                          "stats": {
+                            "total_seats": 72,
+                            "available_seats": 70,
+                            "sold_seats": 0,
+                            "wheelchair_seats": 2,
+                            "occupancy_pct": 0.0,
+                            "revenue": 0.0
+                          },
+                          "start_time": "2026-05-17T15:00",
+                          "screen_type": "Std",
+                          "screen_name": "8",
+                          "adult_price": 25.0
+                        }
+                      ]
+                    },
+                    "66": {
+                      "cinema_name": "Parramatta",
+                      "overall_stats": {
+                        "sessions": 2,
+                        "locations": 1,
+                        "total_seats": 634,
+                        "sold_seats": 53,
+                        "available_seats": 573,
+                        "occupancy_pct": 8.4,
+                        "revenue": 1378.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15363047,
+                          "stats": {
+                            "total_seats": 317,
+                            "available_seats": 262,
+                            "sold_seats": 51,
+                            "wheelchair_seats": 4,
+                            "occupancy_pct": 16.1,
+                            "revenue": 1326.0
+                          },
+                          "start_time": "2026-05-17T17:40",
+                          "screen_type": "Std",
+                          "screen_name": "6",
+                          "adult_price": 26.0
+                        },
+                        {
+                          "session_id": 15363049,
+                          "stats": {
+                            "total_seats": 317,
+                            "available_seats": 311,
+                            "sold_seats": 2,
+                            "wheelchair_seats": 4,
+                            "occupancy_pct": 0.6,
+                            "revenue": 52.0
+                          },
+                          "start_time": "2026-05-17T21:00",
+                          "screen_type": "Std",
+                          "screen_name": "6",
+                          "adult_price": 26.0
+                        }
+                      ]
+                    },
+                    "69": {
+                      "cinema_name": "Top Ryde City",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 139,
+                        "sold_seats": 5,
+                        "available_seats": 132,
+                        "occupancy_pct": 3.6,
+                        "revenue": 120.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15364874,
+                          "stats": {
+                            "total_seats": 139,
+                            "available_seats": 132,
+                            "sold_seats": 5,
+                            "wheelchair_seats": 2,
+                            "occupancy_pct": 3.6,
+                            "revenue": 120.0
+                          },
+                          "start_time": "2026-05-17T20:50",
+                          "screen_type": "Std",
+                          "screen_name": "4",
+                          "adult_price": 24.0
+                        }
+                      ]
+                    },
+                    "86": {
+                      "cinema_name": "North Lakes",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 216,
+                        "sold_seats": 10,
+                        "available_seats": 203,
+                        "occupancy_pct": 4.6,
+                        "revenue": 240.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15360594,
+                          "stats": {
+                            "total_seats": 216,
+                            "available_seats": 203,
+                            "sold_seats": 10,
+                            "wheelchair_seats": 3,
+                            "occupancy_pct": 4.6,
+                            "revenue": 240.0
+                          },
+                          "start_time": "2026-05-17T18:20",
+                          "screen_type": "Std",
+                          "screen_name": "2",
+                          "adult_price": 24.0
+                        }
+                      ]
+                    },
+                    "89": {
+                      "cinema_name": "Cairns Smithfield",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 148,
+                        "sold_seats": 3,
+                        "available_seats": 143,
+                        "occupancy_pct": 2.0,
+                        "revenue": 72.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15365211,
+                          "stats": {
+                            "total_seats": 148,
+                            "available_seats": 143,
+                            "sold_seats": 3,
+                            "wheelchair_seats": 2,
+                            "occupancy_pct": 2.0,
+                            "revenue": 72.0
+                          },
+                          "start_time": "2026-05-17T18:30",
+                          "screen_type": "Std",
+                          "screen_name": "3",
+                          "adult_price": 24.0
+                        }
+                      ]
+                    },
+                    "94": {
+                      "cinema_name": "Ed Square",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 61,
+                        "sold_seats": 0,
+                        "available_seats": 59,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15362811,
+                          "stats": {
+                            "total_seats": 61,
+                            "available_seats": 59,
+                            "sold_seats": 0,
+                            "wheelchair_seats": 2,
+                            "occupancy_pct": 0.0,
+                            "revenue": 0.0
+                          },
+                          "start_time": "2026-05-17T21:00",
+                          "screen_type": "Std",
+                          "screen_name": "4",
+                          "adult_price": 27.0
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            },
+            "hoyts": {
+              "overall_stats": {
+                "sessions": 12,
+                "locations": 12,
+                "total_seats": 1276,
+                "sold_seats": 33,
+                "available_seats": 1168,
+                "occupancy_pct": 2.6,
+                "revenue": 909.5
+              },
+              "locations": {
+                "ARNCIN": {
+                  "cinema_name": "ARNCIN",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 148,
+                    "sold_seats": 0,
+                    "available_seats": 148,
+                    "occupancy_pct": 0.0,
+                    "revenue": 0.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 84235,
+                      "stats": {
+                        "total_seats": 148,
+                        "sold_seats": 0,
+                        "unavailable": 0,
+                        "available_seats": 148,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "start_time": "2026-05-17T21:00:00",
+                      "screen": "Cinema 04"
+                    }
+                  ]
+                },
+                "BANKTN": {
+                  "cinema_name": "BANKTN",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 112,
+                    "sold_seats": 0,
+                    "available_seats": 110,
+                    "occupancy_pct": 0.0,
+                    "revenue": 0.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 346646,
+                      "stats": {
+                        "total_seats": 112,
+                        "sold_seats": 0,
+                        "unavailable": 2,
+                        "available_seats": 110,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "start_time": "2026-05-17T20:45:00",
+                      "screen": "Cinema 02"
+                    }
+                  ]
+                },
+                "BELCON": {
+                  "cinema_name": "BELCON",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 91,
+                    "sold_seats": 2,
+                    "available_seats": 87,
+                    "occupancy_pct": 2.2,
+                    "revenue": 55.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 361966,
+                      "stats": {
+                        "total_seats": 91,
+                        "sold_seats": 2,
+                        "unavailable": 2,
+                        "available_seats": 87,
+                        "occupancy_pct": 2.2,
+                        "revenue": 55.0
+                      },
+                      "start_time": "2026-05-17T21:00:00",
+                      "screen": "Cinema 03"
+                    }
+                  ]
+                },
+                "CAROUS": {
+                  "cinema_name": "CAROUS",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 135,
+                    "sold_seats": 9,
+                    "available_seats": 123,
+                    "occupancy_pct": 6.7,
+                    "revenue": 238.5
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 520341,
+                      "stats": {
+                        "total_seats": 135,
+                        "sold_seats": 9,
+                        "unavailable": 3,
+                        "available_seats": 123,
+                        "occupancy_pct": 6.8,
+                        "revenue": 238.5
+                      },
+                      "start_time": "2026-05-17T21:00:00",
+                      "screen": "Cinema 15"
+                    }
+                  ]
+                },
+                "DOCCIN": {
+                  "cinema_name": "DOCCIN",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 57,
+                    "sold_seats": 5,
+                    "available_seats": 50,
+                    "occupancy_pct": 8.8,
+                    "revenue": 140.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 153070,
+                      "stats": {
+                        "total_seats": 57,
+                        "sold_seats": 5,
+                        "unavailable": 2,
+                        "available_seats": 50,
+                        "occupancy_pct": 9.1,
+                        "revenue": 140.0
+                      },
+                      "start_time": "2026-05-17T20:30:00",
+                      "screen": "Cinema 03"
+                    }
+                  ]
+                },
+                "HIGPNT": {
+                  "cinema_name": "HIGPNT",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 96,
+                    "sold_seats": 0,
+                    "available_seats": 94,
+                    "occupancy_pct": 0.0,
+                    "revenue": 0.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 539227,
+                      "stats": {
+                        "total_seats": 96,
+                        "sold_seats": 0,
+                        "unavailable": 2,
+                        "available_seats": 94,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "start_time": "2026-05-17T20:50:00",
+                      "screen": "Cinema 10"
+                    }
+                  ]
+                },
+                "PENRTH": {
+                  "cinema_name": "PENRTH",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 174,
+                    "sold_seats": 0,
+                    "available_seats": 150,
+                    "occupancy_pct": 0.0,
+                    "revenue": 0.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 373061,
+                      "stats": {
+                        "total_seats": 174,
+                        "sold_seats": 0,
+                        "unavailable": 24,
+                        "available_seats": 150,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "start_time": "2026-05-17T20:45:00",
+                      "screen": "Cinema 05"
+                    }
+                  ]
+                },
+                "SLYCIN": {
+                  "cinema_name": "SLYCIN",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 63,
+                    "sold_seats": 0,
+                    "available_seats": 61,
+                    "occupancy_pct": 0.0,
+                    "revenue": 0.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 300771,
+                      "stats": {
+                        "total_seats": 63,
+                        "sold_seats": 0,
+                        "unavailable": 2,
+                        "available_seats": 61,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "start_time": "2026-05-17T20:30:00",
+                      "screen": "Cinema 07"
+                    }
+                  ]
+                },
+                "SUNBNK": {
+                  "cinema_name": "SUNBNK",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 75,
+                    "sold_seats": 0,
+                    "available_seats": 67,
+                    "occupancy_pct": 0.0,
+                    "revenue": 0.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 260307,
+                      "stats": {
+                        "total_seats": 75,
+                        "sold_seats": 0,
+                        "unavailable": 8,
+                        "available_seats": 67,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "start_time": "2026-05-17T21:00:00",
+                      "screen": "Cinema 01"
+                    }
+                  ]
+                },
+                "WARCIN": {
+                  "cinema_name": "WARCIN",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 174,
+                    "sold_seats": 0,
+                    "available_seats": 172,
+                    "occupancy_pct": 0.0,
+                    "revenue": 0.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 53385,
+                      "stats": {
+                        "total_seats": 174,
+                        "sold_seats": 0,
+                        "unavailable": 2,
+                        "available_seats": 172,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "start_time": "2026-05-17T20:20:00",
+                      "screen": "Cinema 06"
+                    }
+                  ]
+                },
+                "WESCIN": {
+                  "cinema_name": "WESCIN",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 95,
+                    "sold_seats": 17,
+                    "available_seats": 53,
+                    "occupancy_pct": 17.9,
+                    "revenue": 476.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 374282,
+                      "stats": {
+                        "total_seats": 95,
+                        "sold_seats": 17,
+                        "unavailable": 25,
+                        "available_seats": 53,
+                        "occupancy_pct": 24.3,
+                        "revenue": 476.0
+                      },
+                      "start_time": "2026-05-17T21:20:00",
+                      "screen": "Cinema 04"
+                    }
+                  ]
+                },
+                "WETHER": {
+                  "cinema_name": "WETHER",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 56,
+                    "sold_seats": 0,
+                    "available_seats": 53,
+                    "occupancy_pct": 0.0,
+                    "revenue": 0.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 446668,
+                      "stats": {
+                        "total_seats": 56,
+                        "sold_seats": 0,
+                        "unavailable": 3,
+                        "available_seats": 53,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "start_time": "2026-05-17T21:00:00",
+                      "screen": "Cinema 07"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "date": "2026-05-18",
+          "overall_stats": {
+            "sessions": 29,
+            "locations": 28,
+            "total_seats": 4363,
+            "sold_seats": 104,
+            "available_seats": 4138,
+            "occupancy_pct": 2.4,
+            "revenue": 2407.5
+          },
+          "platforms": {
+            "village_cinemas": {
+              "overall_stats": {
+                "sessions": 0,
+                "locations": 0,
+                "total_seats": 0,
+                "sold_seats": 0,
+                "available_seats": 0,
+                "occupancy_pct": 0.0,
+                "revenue": 0
+              },
+              "locations": {}
+            },
+            "event_cinemas": {
+              "overall_stats": {
+                "sessions": 17,
+                "locations": 16,
+                "total_seats": 3048,
+                "sold_seats": 99,
+                "available_seats": 2906,
+                "occupancy_pct": 3.2,
+                "revenue": 2270.0
+              },
+              "languages": {
+                "Tamil": {
+                  "ho_code": "HO00018304",
+                  "overall_stats": {
+                    "sessions": 17,
+                    "locations": 16,
+                    "total_seats": 3048,
+                    "sold_seats": 99,
+                    "available_seats": 2906,
+                    "occupancy_pct": 3.2,
+                    "revenue": 2270.0
+                  },
+                  "locations": {
+                    "17": {
+                      "cinema_name": "Innaloo",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 209,
+                        "sold_seats": 11,
+                        "available_seats": 194,
+                        "occupancy_pct": 5.3,
+                        "revenue": 308.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15355881,
+                          "stats": {
+                            "total_seats": 209,
+                            "available_seats": 194,
+                            "sold_seats": 11,
+                            "wheelchair_seats": 4,
+                            "occupancy_pct": 5.3,
+                            "revenue": 308.0
+                          },
+                          "start_time": "2026-05-18T21:00",
+                          "screen_type": "Std",
+                          "screen_name": "7",
+                          "adult_price": 28.0
+                        }
+                      ]
+                    },
+                    "19": {
+                      "cinema_name": "Liverpool",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 169,
+                        "sold_seats": 17,
+                        "available_seats": 151,
+                        "occupancy_pct": 10.1,
+                        "revenue": 238.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15367058,
+                          "stats": {
+                            "total_seats": 169,
+                            "available_seats": 151,
+                            "sold_seats": 17,
+                            "wheelchair_seats": 1,
+                            "occupancy_pct": 10.1,
+                            "revenue": 238.0
+                          },
+                          "start_time": "2026-05-18T15:45",
+                          "screen_type": "Std",
+                          "screen_name": "6",
+                          "adult_price": 14.0
+                        }
+                      ]
+                    },
+                    "22": {
+                      "cinema_name": "Marion",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 101,
+                        "sold_seats": 1,
+                        "available_seats": 98,
+                        "occupancy_pct": 1.0,
+                        "revenue": 24.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15362113,
+                          "stats": {
+                            "total_seats": 101,
+                            "available_seats": 98,
+                            "sold_seats": 1,
+                            "wheelchair_seats": 2,
+                            "occupancy_pct": 1.0,
+                            "revenue": 24.0
+                          },
+                          "start_time": "2026-05-18T20:40",
+                          "screen_type": "Std",
+                          "screen_name": "4",
+                          "adult_price": 24.0
+                        }
+                      ]
+                    },
+                    "24": {
+                      "cinema_name": "Australia Fair",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 174,
+                        "sold_seats": 1,
+                        "available_seats": 170,
+                        "occupancy_pct": 0.6,
+                        "revenue": 20.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15366537,
+                          "stats": {
+                            "total_seats": 174,
+                            "available_seats": 170,
+                            "sold_seats": 1,
+                            "wheelchair_seats": 3,
+                            "occupancy_pct": 0.6,
+                            "revenue": 20.0
+                          },
+                          "start_time": "2026-05-18T18:10",
+                          "screen_type": "Std",
+                          "screen_name": "6",
+                          "adult_price": 20.0
+                        }
+                      ]
+                    },
+                    "38": {
+                      "cinema_name": "Maroochydore Sunshine Plaza",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 139,
+                        "sold_seats": 5,
+                        "available_seats": 133,
+                        "occupancy_pct": 3.6,
+                        "revenue": 125.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15362738,
+                          "stats": {
+                            "total_seats": 139,
+                            "available_seats": 133,
+                            "sold_seats": 5,
+                            "wheelchair_seats": 1,
+                            "occupancy_pct": 3.6,
+                            "revenue": 125.0
+                          },
+                          "start_time": "2026-05-18T15:30",
+                          "screen_type": "Std",
+                          "screen_name": "12",
+                          "adult_price": 25.0
+                        }
+                      ]
+                    },
+                    "48": {
+                      "cinema_name": "Indooroopilly",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 157,
+                        "sold_seats": 7,
+                        "available_seats": 147,
+                        "occupancy_pct": 4.5,
+                        "revenue": 168.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15357741,
+                          "stats": {
+                            "total_seats": 157,
+                            "available_seats": 147,
+                            "sold_seats": 7,
+                            "wheelchair_seats": 3,
+                            "occupancy_pct": 4.5,
+                            "revenue": 168.0
+                          },
+                          "start_time": "2026-05-18T18:15",
+                          "screen_type": "Std",
+                          "screen_name": "6",
+                          "adult_price": 24.0
+                        }
+                      ]
+                    },
+                    "49": {
+                      "cinema_name": "Mt Gravatt",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 457,
+                        "sold_seats": 22,
+                        "available_seats": 431,
+                        "occupancy_pct": 4.8,
+                        "revenue": 528.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15354983,
+                          "stats": {
+                            "total_seats": 457,
+                            "available_seats": 431,
+                            "sold_seats": 22,
+                            "wheelchair_seats": 4,
+                            "occupancy_pct": 4.8,
+                            "revenue": 528.0
+                          },
+                          "start_time": "2026-05-18T18:00",
+                          "screen_type": "Std",
+                          "screen_name": "10",
+                          "adult_price": 24.0
+                        }
+                      ]
+                    },
+                    "53": {
+                      "cinema_name": "Castle Hill",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 78,
+                        "sold_seats": 0,
+                        "available_seats": 75,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15356228,
+                          "stats": {
+                            "total_seats": 78,
+                            "available_seats": 75,
+                            "sold_seats": 0,
+                            "wheelchair_seats": 3,
+                            "occupancy_pct": 0.0,
+                            "revenue": 0.0
+                          },
+                          "start_time": "2026-05-18T21:10",
+                          "screen_type": "Std",
+                          "screen_name": "9",
+                          "adult_price": 26.0
+                        }
+                      ]
+                    },
+                    "58": {
+                      "cinema_name": "Burwood",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 147,
+                        "sold_seats": 8,
+                        "available_seats": 138,
+                        "occupancy_pct": 5.4,
+                        "revenue": 192.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15356971,
+                          "stats": {
+                            "total_seats": 147,
+                            "available_seats": 138,
+                            "sold_seats": 8,
+                            "wheelchair_seats": 1,
+                            "occupancy_pct": 5.4,
+                            "revenue": 192.0
+                          },
+                          "start_time": "2026-05-18T21:00",
+                          "screen_type": "Std",
+                          "screen_name": "5",
+                          "adult_price": 24.0
+                        }
+                      ]
+                    },
+                    "62": {
+                      "cinema_name": "Hornsby",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 176,
+                        "sold_seats": 7,
+                        "available_seats": 167,
+                        "occupancy_pct": 4.0,
+                        "revenue": 175.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15363326,
+                          "stats": {
+                            "total_seats": 176,
+                            "available_seats": 167,
+                            "sold_seats": 7,
+                            "wheelchair_seats": 2,
+                            "occupancy_pct": 4.0,
+                            "revenue": 175.0
+                          },
+                          "start_time": "2026-05-18T18:15",
+                          "screen_type": "Std",
+                          "screen_name": "1",
+                          "adult_price": 25.0
+                        }
+                      ]
+                    },
+                    "63": {
+                      "cinema_name": "Shellharbour",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 72,
+                        "sold_seats": 0,
+                        "available_seats": 70,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15364659,
+                          "stats": {
+                            "total_seats": 72,
+                            "available_seats": 70,
+                            "sold_seats": 0,
+                            "wheelchair_seats": 2,
+                            "occupancy_pct": 0.0,
+                            "revenue": 0.0
+                          },
+                          "start_time": "2026-05-18T15:15",
+                          "screen_type": "Std",
+                          "screen_name": "7",
+                          "adult_price": 25.0
+                        }
+                      ]
+                    },
+                    "66": {
+                      "cinema_name": "Parramatta",
+                      "overall_stats": {
+                        "sessions": 2,
+                        "locations": 1,
+                        "total_seats": 634,
+                        "sold_seats": 6,
+                        "available_seats": 620,
+                        "occupancy_pct": 0.9,
+                        "revenue": 156.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15363078,
+                          "stats": {
+                            "total_seats": 317,
+                            "available_seats": 309,
+                            "sold_seats": 4,
+                            "wheelchair_seats": 4,
+                            "occupancy_pct": 1.3,
+                            "revenue": 104.0
+                          },
+                          "start_time": "2026-05-18T15:00",
+                          "screen_type": "Std",
+                          "screen_name": "6",
+                          "adult_price": 26.0
+                        },
+                        {
+                          "session_id": 15363090,
+                          "stats": {
+                            "total_seats": 317,
+                            "available_seats": 311,
+                            "sold_seats": 2,
+                            "wheelchair_seats": 4,
+                            "occupancy_pct": 0.6,
+                            "revenue": 52.0
+                          },
+                          "start_time": "2026-05-18T21:00",
+                          "screen_type": "Std",
+                          "screen_name": "6",
+                          "adult_price": 26.0
+                        }
+                      ]
+                    },
+                    "69": {
+                      "cinema_name": "Top Ryde City",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 111,
+                        "sold_seats": 2,
+                        "available_seats": 107,
+                        "occupancy_pct": 1.8,
+                        "revenue": 48.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15364973,
+                          "stats": {
+                            "total_seats": 111,
+                            "available_seats": 107,
+                            "sold_seats": 2,
+                            "wheelchair_seats": 2,
+                            "occupancy_pct": 1.8,
+                            "revenue": 48.0
+                          },
+                          "start_time": "2026-05-18T18:45",
+                          "screen_type": "Std",
+                          "screen_name": "6",
+                          "adult_price": 24.0
+                        }
+                      ]
+                    },
+                    "86": {
+                      "cinema_name": "North Lakes",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 216,
+                        "sold_seats": 8,
+                        "available_seats": 205,
+                        "occupancy_pct": 3.7,
+                        "revenue": 192.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15360592,
+                          "stats": {
+                            "total_seats": 216,
+                            "available_seats": 205,
+                            "sold_seats": 8,
+                            "wheelchair_seats": 3,
+                            "occupancy_pct": 3.7,
+                            "revenue": 192.0
+                          },
+                          "start_time": "2026-05-18T18:00",
+                          "screen_type": "Std",
+                          "screen_name": "2",
+                          "adult_price": 24.0
+                        }
+                      ]
+                    },
+                    "89": {
+                      "cinema_name": "Cairns Smithfield",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 147,
+                        "sold_seats": 4,
+                        "available_seats": 141,
+                        "occupancy_pct": 2.7,
+                        "revenue": 96.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15365285,
+                          "stats": {
+                            "total_seats": 147,
+                            "available_seats": 141,
+                            "sold_seats": 4,
+                            "wheelchair_seats": 2,
+                            "occupancy_pct": 2.7,
+                            "revenue": 96.0
+                          },
+                          "start_time": "2026-05-18T19:15",
+                          "screen_type": "Std",
+                          "screen_name": "2",
+                          "adult_price": 24.0
+                        }
+                      ]
+                    },
+                    "94": {
+                      "cinema_name": "Ed Square",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 61,
+                        "sold_seats": 0,
+                        "available_seats": 59,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15362838,
+                          "stats": {
+                            "total_seats": 61,
+                            "available_seats": 59,
+                            "sold_seats": 0,
+                            "wheelchair_seats": 2,
+                            "occupancy_pct": 0.0,
+                            "revenue": 0.0
+                          },
+                          "start_time": "2026-05-18T21:00",
+                          "screen_type": "Std",
+                          "screen_name": "4",
+                          "adult_price": 26.0
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            },
+            "hoyts": {
+              "overall_stats": {
+                "sessions": 12,
+                "locations": 12,
+                "total_seats": 1315,
+                "sold_seats": 5,
+                "available_seats": 1232,
+                "occupancy_pct": 0.4,
+                "revenue": 137.5
+              },
+              "locations": {
+                "ARNCIN": {
+                  "cinema_name": "ARNCIN",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 152,
+                    "sold_seats": 0,
+                    "available_seats": 152,
+                    "occupancy_pct": 0.0,
+                    "revenue": 0.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 84308,
+                      "stats": {
+                        "total_seats": 152,
+                        "sold_seats": 0,
+                        "unavailable": 0,
+                        "available_seats": 152,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "start_time": "2026-05-18T21:00:00",
+                      "screen": "Cinema 05"
+                    }
+                  ]
+                },
+                "BANKTN": {
+                  "cinema_name": "BANKTN",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 147,
+                    "sold_seats": 0,
+                    "available_seats": 145,
+                    "occupancy_pct": 0.0,
+                    "revenue": 0.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 346428,
+                      "stats": {
+                        "total_seats": 147,
+                        "sold_seats": 0,
+                        "unavailable": 2,
+                        "available_seats": 145,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "start_time": "2026-05-18T20:50:00",
+                      "screen": "Cinema 03"
+                    }
+                  ]
+                },
+                "BELCON": {
+                  "cinema_name": "BELCON",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 91,
+                    "sold_seats": 5,
+                    "available_seats": 84,
+                    "occupancy_pct": 5.5,
+                    "revenue": 137.5
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 361778,
+                      "stats": {
+                        "total_seats": 91,
+                        "sold_seats": 5,
+                        "unavailable": 2,
+                        "available_seats": 84,
+                        "occupancy_pct": 5.6,
+                        "revenue": 137.5
+                      },
+                      "start_time": "2026-05-18T21:00:00",
+                      "screen": "Cinema 03"
+                    }
+                  ]
+                },
+                "CAROUS": {
+                  "cinema_name": "CAROUS",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 135,
+                    "sold_seats": 0,
+                    "available_seats": 132,
+                    "occupancy_pct": 0.0,
+                    "revenue": 0.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 520059,
+                      "stats": {
+                        "total_seats": 135,
+                        "sold_seats": 0,
+                        "unavailable": 3,
+                        "available_seats": 132,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "start_time": "2026-05-18T21:00:00",
+                      "screen": "Cinema 15"
+                    }
+                  ]
+                },
+                "DOCCIN": {
+                  "cinema_name": "DOCCIN",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 57,
+                    "sold_seats": 0,
+                    "available_seats": 55,
+                    "occupancy_pct": 0.0,
+                    "revenue": 0.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 152917,
+                      "stats": {
+                        "total_seats": 57,
+                        "sold_seats": 0,
+                        "unavailable": 2,
+                        "available_seats": 55,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "start_time": "2026-05-18T20:30:00",
+                      "screen": "Cinema 03"
+                    }
+                  ]
+                },
+                "HIGPNT": {
+                  "cinema_name": "HIGPNT",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 96,
+                    "sold_seats": 0,
+                    "available_seats": 94,
+                    "occupancy_pct": 0.0,
+                    "revenue": 0.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 539096,
+                      "stats": {
+                        "total_seats": 96,
+                        "sold_seats": 0,
+                        "unavailable": 2,
+                        "available_seats": 94,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "start_time": "2026-05-18T20:50:00",
+                      "screen": "Cinema 10"
+                    }
+                  ]
+                },
+                "PENRTH": {
+                  "cinema_name": "PENRTH",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 174,
+                    "sold_seats": 0,
+                    "available_seats": 150,
+                    "occupancy_pct": 0.0,
+                    "revenue": 0.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 373107,
+                      "stats": {
+                        "total_seats": 174,
+                        "sold_seats": 0,
+                        "unavailable": 24,
+                        "available_seats": 150,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "start_time": "2026-05-18T20:45:00",
+                      "screen": "Cinema 05"
+                    }
+                  ]
+                },
+                "SLYCIN": {
+                  "cinema_name": "SLYCIN",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 63,
+                    "sold_seats": 0,
+                    "available_seats": 58,
+                    "occupancy_pct": 0.0,
+                    "revenue": 0.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 300849,
+                      "stats": {
+                        "total_seats": 63,
+                        "sold_seats": 0,
+                        "unavailable": 5,
+                        "available_seats": 58,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "start_time": "2026-05-18T20:45:00",
+                      "screen": "Cinema 06"
+                    }
+                  ]
+                },
+                "SUNBNK": {
+                  "cinema_name": "SUNBNK",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 75,
+                    "sold_seats": 0,
+                    "available_seats": 67,
+                    "occupancy_pct": 0.0,
+                    "revenue": 0.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 260346,
+                      "stats": {
+                        "total_seats": 75,
+                        "sold_seats": 0,
+                        "unavailable": 8,
+                        "available_seats": 67,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "start_time": "2026-05-18T21:00:00",
+                      "screen": "Cinema 01"
+                    }
+                  ]
+                },
+                "WARCIN": {
+                  "cinema_name": "WARCIN",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 174,
+                    "sold_seats": 0,
+                    "available_seats": 172,
+                    "occupancy_pct": 0.0,
+                    "revenue": 0.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 53418,
+                      "stats": {
+                        "total_seats": 174,
+                        "sold_seats": 0,
+                        "unavailable": 2,
+                        "available_seats": 172,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "start_time": "2026-05-18T20:20:00",
+                      "screen": "Cinema 06"
+                    }
+                  ]
+                },
+                "WESCIN": {
+                  "cinema_name": "WESCIN",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 95,
+                    "sold_seats": 0,
+                    "available_seats": 70,
+                    "occupancy_pct": 0.0,
+                    "revenue": 0.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 374284,
+                      "stats": {
+                        "total_seats": 95,
+                        "sold_seats": 0,
+                        "unavailable": 25,
+                        "available_seats": 70,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "start_time": "2026-05-18T21:20:00",
+                      "screen": "Cinema 04"
+                    }
+                  ]
+                },
+                "WETHER": {
+                  "cinema_name": "WETHER",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 56,
+                    "sold_seats": 0,
+                    "available_seats": 53,
+                    "occupancy_pct": 0.0,
+                    "revenue": 0.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 446729,
+                      "stats": {
+                        "total_seats": 56,
+                        "sold_seats": 0,
+                        "unavailable": 3,
+                        "available_seats": 53,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "start_time": "2026-05-18T21:00:00",
+                      "screen": "Cinema 07"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "date": "2026-05-19",
+          "overall_stats": {
+            "sessions": 31,
+            "locations": 28,
+            "total_seats": 5028,
+            "sold_seats": 182,
+            "available_seats": 4718,
+            "occupancy_pct": 3.6,
+            "revenue": 4356.5
+          },
+          "platforms": {
+            "village_cinemas": {
+              "overall_stats": {
+                "sessions": 0,
+                "locations": 0,
+                "total_seats": 0,
+                "sold_seats": 0,
+                "available_seats": 0,
+                "occupancy_pct": 0.0,
+                "revenue": 0
+              },
+              "locations": {}
+            },
+            "event_cinemas": {
+              "overall_stats": {
+                "sessions": 20,
+                "locations": 17,
+                "total_seats": 3834,
+                "sold_seats": 148,
+                "available_seats": 3633,
+                "occupancy_pct": 3.9,
+                "revenue": 3434.0
+              },
+              "languages": {
+                "Tamil": {
+                  "ho_code": "HO00018304",
+                  "overall_stats": {
+                    "sessions": 20,
+                    "locations": 17,
+                    "total_seats": 3834,
+                    "sold_seats": 148,
+                    "available_seats": 3633,
+                    "occupancy_pct": 3.9,
+                    "revenue": 3434.0
+                  },
+                  "locations": {
+                    "17": {
+                      "cinema_name": "Innaloo",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 209,
+                        "sold_seats": 11,
+                        "available_seats": 194,
+                        "occupancy_pct": 5.3,
+                        "revenue": 308.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15356009,
+                          "stats": {
+                            "total_seats": 209,
+                            "available_seats": 194,
+                            "sold_seats": 11,
+                            "wheelchair_seats": 4,
+                            "occupancy_pct": 5.3,
+                            "revenue": 308.0
+                          },
+                          "start_time": "2026-05-19T21:00",
+                          "screen_type": "Std",
+                          "screen_name": "7",
+                          "adult_price": 28.0
+                        }
+                      ]
+                    },
+                    "19": {
+                      "cinema_name": "Liverpool",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 169,
+                        "sold_seats": 14,
+                        "available_seats": 154,
+                        "occupancy_pct": 8.3,
+                        "revenue": 196.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15367059,
+                          "stats": {
+                            "total_seats": 169,
+                            "available_seats": 154,
+                            "sold_seats": 14,
+                            "wheelchair_seats": 1,
+                            "occupancy_pct": 8.3,
+                            "revenue": 196.0
+                          },
+                          "start_time": "2026-05-19T15:45",
+                          "screen_type": "Std",
+                          "screen_name": "6",
+                          "adult_price": 14.0
+                        }
+                      ]
+                    },
+                    "21": {
+                      "cinema_name": "Glendale",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 144,
+                        "sold_seats": 11,
+                        "available_seats": 131,
+                        "occupancy_pct": 7.6,
+                        "revenue": 209.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15357321,
+                          "stats": {
+                            "total_seats": 144,
+                            "available_seats": 131,
+                            "sold_seats": 11,
+                            "wheelchair_seats": 2,
+                            "occupancy_pct": 7.6,
+                            "revenue": 209.0
+                          },
+                          "start_time": "2026-05-19T21:00",
+                          "screen_type": "Std",
+                          "screen_name": "5",
+                          "adult_price": 19.0
+                        }
+                      ]
+                    },
+                    "22": {
+                      "cinema_name": "Marion",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 101,
+                        "sold_seats": 1,
+                        "available_seats": 98,
+                        "occupancy_pct": 1.0,
+                        "revenue": 24.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15362176,
+                          "stats": {
+                            "total_seats": 101,
+                            "available_seats": 98,
+                            "sold_seats": 1,
+                            "wheelchair_seats": 2,
+                            "occupancy_pct": 1.0,
+                            "revenue": 24.0
+                          },
+                          "start_time": "2026-05-19T20:40",
+                          "screen_type": "Std",
+                          "screen_name": "4",
+                          "adult_price": 24.0
+                        }
+                      ]
+                    },
+                    "24": {
+                      "cinema_name": "Australia Fair",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 151,
+                        "sold_seats": 2,
+                        "available_seats": 146,
+                        "occupancy_pct": 1.3,
+                        "revenue": 40.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15366603,
+                          "stats": {
+                            "total_seats": 151,
+                            "available_seats": 146,
+                            "sold_seats": 2,
+                            "wheelchair_seats": 3,
+                            "occupancy_pct": 1.3,
+                            "revenue": 40.0
+                          },
+                          "start_time": "2026-05-19T18:10",
+                          "screen_type": "Std",
+                          "screen_name": "5",
+                          "adult_price": 20.0
+                        }
+                      ]
+                    },
+                    "38": {
+                      "cinema_name": "Maroochydore Sunshine Plaza",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 145,
+                        "sold_seats": 4,
+                        "available_seats": 139,
+                        "occupancy_pct": 2.8,
+                        "revenue": 100.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15362684,
+                          "stats": {
+                            "total_seats": 145,
+                            "available_seats": 139,
+                            "sold_seats": 4,
+                            "wheelchair_seats": 2,
+                            "occupancy_pct": 2.8,
+                            "revenue": 100.0
+                          },
+                          "start_time": "2026-05-19T20:40",
+                          "screen_type": "Std",
+                          "screen_name": "3",
+                          "adult_price": 25.0
+                        }
+                      ]
+                    },
+                    "48": {
+                      "cinema_name": "Indooroopilly",
+                      "overall_stats": {
+                        "sessions": 2,
+                        "locations": 1,
+                        "total_seats": 305,
+                        "sold_seats": 13,
+                        "available_seats": 286,
+                        "occupancy_pct": 4.3,
+                        "revenue": 312.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15357590,
+                          "stats": {
+                            "total_seats": 157,
+                            "available_seats": 149,
+                            "sold_seats": 5,
+                            "wheelchair_seats": 3,
+                            "occupancy_pct": 3.2,
+                            "revenue": 120.0
+                          },
+                          "start_time": "2026-05-19T15:00",
+                          "screen_type": "Std",
+                          "screen_name": "4",
+                          "adult_price": 24.0
+                        },
+                        {
+                          "session_id": 15357613,
+                          "stats": {
+                            "total_seats": 148,
+                            "available_seats": 137,
+                            "sold_seats": 8,
+                            "wheelchair_seats": 3,
+                            "occupancy_pct": 5.4,
+                            "revenue": 192.0
+                          },
+                          "start_time": "2026-05-19T20:40",
+                          "screen_type": "Std",
+                          "screen_name": "12",
+                          "adult_price": 24.0
+                        }
+                      ]
+                    },
+                    "49": {
+                      "cinema_name": "Mt Gravatt",
+                      "overall_stats": {
+                        "sessions": 2,
+                        "locations": 1,
+                        "total_seats": 914,
+                        "sold_seats": 44,
+                        "available_seats": 862,
+                        "occupancy_pct": 4.8,
+                        "revenue": 1056.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15354954,
+                          "stats": {
+                            "total_seats": 457,
+                            "available_seats": 431,
+                            "sold_seats": 22,
+                            "wheelchair_seats": 4,
+                            "occupancy_pct": 4.8,
+                            "revenue": 528.0
+                          },
+                          "start_time": "2026-05-19T17:40",
+                          "screen_type": "Std",
+                          "screen_name": "10",
+                          "adult_price": 24.0
+                        },
+                        {
+                          "session_id": 15354961,
+                          "stats": {
+                            "total_seats": 457,
+                            "available_seats": 431,
+                            "sold_seats": 22,
+                            "wheelchair_seats": 4,
+                            "occupancy_pct": 4.8,
+                            "revenue": 528.0
+                          },
+                          "start_time": "2026-05-19T21:00",
+                          "screen_type": "Std",
+                          "screen_name": "10",
+                          "adult_price": 24.0
+                        }
+                      ]
+                    },
+                    "53": {
+                      "cinema_name": "Castle Hill",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 78,
+                        "sold_seats": 4,
+                        "available_seats": 71,
+                        "occupancy_pct": 5.1,
+                        "revenue": 104.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15356284,
+                          "stats": {
+                            "total_seats": 78,
+                            "available_seats": 71,
+                            "sold_seats": 4,
+                            "wheelchair_seats": 3,
+                            "occupancy_pct": 5.1,
+                            "revenue": 104.0
+                          },
+                          "start_time": "2026-05-19T21:10",
+                          "screen_type": "Std",
+                          "screen_name": "9",
+                          "adult_price": 26.0
+                        }
+                      ]
+                    },
+                    "58": {
+                      "cinema_name": "Burwood",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 147,
+                        "sold_seats": 13,
+                        "available_seats": 133,
+                        "occupancy_pct": 8.8,
+                        "revenue": 312.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15357019,
+                          "stats": {
+                            "total_seats": 147,
+                            "available_seats": 133,
+                            "sold_seats": 13,
+                            "wheelchair_seats": 1,
+                            "occupancy_pct": 8.8,
+                            "revenue": 312.0
+                          },
+                          "start_time": "2026-05-19T21:00",
+                          "screen_type": "Std",
+                          "screen_name": "5",
+                          "adult_price": 24.0
+                        }
+                      ]
+                    },
+                    "62": {
+                      "cinema_name": "Hornsby",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 176,
+                        "sold_seats": 5,
+                        "available_seats": 169,
+                        "occupancy_pct": 2.8,
+                        "revenue": 125.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15363371,
+                          "stats": {
+                            "total_seats": 176,
+                            "available_seats": 169,
+                            "sold_seats": 5,
+                            "wheelchair_seats": 2,
+                            "occupancy_pct": 2.8,
+                            "revenue": 125.0
+                          },
+                          "start_time": "2026-05-19T20:55",
+                          "screen_type": "Std",
+                          "screen_name": "1",
+                          "adult_price": 25.0
+                        }
+                      ]
+                    },
+                    "63": {
+                      "cinema_name": "Shellharbour",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 72,
+                        "sold_seats": 0,
+                        "available_seats": 70,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15364694,
+                          "stats": {
+                            "total_seats": 72,
+                            "available_seats": 70,
+                            "sold_seats": 0,
+                            "wheelchair_seats": 2,
+                            "occupancy_pct": 0.0,
+                            "revenue": 0.0
+                          },
+                          "start_time": "2026-05-19T15:00",
+                          "screen_type": "Std",
+                          "screen_name": "8",
+                          "adult_price": 25.0
+                        }
+                      ]
+                    },
+                    "66": {
+                      "cinema_name": "Parramatta",
+                      "overall_stats": {
+                        "sessions": 2,
+                        "locations": 1,
+                        "total_seats": 634,
+                        "sold_seats": 12,
+                        "available_seats": 614,
+                        "occupancy_pct": 1.9,
+                        "revenue": 312.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15363126,
+                          "stats": {
+                            "total_seats": 317,
+                            "available_seats": 311,
+                            "sold_seats": 2,
+                            "wheelchair_seats": 4,
+                            "occupancy_pct": 0.6,
+                            "revenue": 52.0
+                          },
+                          "start_time": "2026-05-19T15:00",
+                          "screen_type": "Std",
+                          "screen_name": "6",
+                          "adult_price": 26.0
+                        },
+                        {
+                          "session_id": 15363123,
+                          "stats": {
+                            "total_seats": 317,
+                            "available_seats": 303,
+                            "sold_seats": 10,
+                            "wheelchair_seats": 4,
+                            "occupancy_pct": 3.2,
+                            "revenue": 260.0
+                          },
+                          "start_time": "2026-05-19T21:00",
+                          "screen_type": "Std",
+                          "screen_name": "6",
+                          "adult_price": 26.0
+                        }
+                      ]
+                    },
+                    "69": {
+                      "cinema_name": "Top Ryde City",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 139,
+                        "sold_seats": 3,
+                        "available_seats": 134,
+                        "occupancy_pct": 2.2,
+                        "revenue": 72.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15365010,
+                          "stats": {
+                            "total_seats": 139,
+                            "available_seats": 134,
+                            "sold_seats": 3,
+                            "wheelchair_seats": 2,
+                            "occupancy_pct": 2.2,
+                            "revenue": 72.0
+                          },
+                          "start_time": "2026-05-19T20:50",
+                          "screen_type": "Std",
+                          "screen_name": "4",
+                          "adult_price": 24.0
+                        }
+                      ]
+                    },
+                    "86": {
+                      "cinema_name": "North Lakes",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 242,
+                        "sold_seats": 7,
+                        "available_seats": 232,
+                        "occupancy_pct": 2.9,
+                        "revenue": 168.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15360593,
+                          "stats": {
+                            "total_seats": 242,
+                            "available_seats": 232,
+                            "sold_seats": 7,
+                            "wheelchair_seats": 3,
+                            "occupancy_pct": 2.9,
+                            "revenue": 168.0
+                          },
+                          "start_time": "2026-05-19T20:50",
+                          "screen_type": "Std",
+                          "screen_name": "4",
+                          "adult_price": 24.0
+                        }
+                      ]
+                    },
+                    "89": {
+                      "cinema_name": "Cairns Smithfield",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 147,
+                        "sold_seats": 4,
+                        "available_seats": 141,
+                        "occupancy_pct": 2.7,
+                        "revenue": 96.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15365286,
+                          "stats": {
+                            "total_seats": 147,
+                            "available_seats": 141,
+                            "sold_seats": 4,
+                            "wheelchair_seats": 2,
+                            "occupancy_pct": 2.7,
+                            "revenue": 96.0
+                          },
+                          "start_time": "2026-05-19T19:15",
+                          "screen_type": "Std",
+                          "screen_name": "2",
+                          "adult_price": 24.0
+                        }
+                      ]
+                    },
+                    "94": {
+                      "cinema_name": "Ed Square",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 61,
+                        "sold_seats": 0,
+                        "available_seats": 59,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15362869,
+                          "stats": {
+                            "total_seats": 61,
+                            "available_seats": 59,
+                            "sold_seats": 0,
+                            "wheelchair_seats": 2,
+                            "occupancy_pct": 0.0,
+                            "revenue": 0.0
+                          },
+                          "start_time": "2026-05-19T21:00",
+                          "screen_type": "Std",
+                          "screen_name": "4",
+                          "adult_price": 26.0
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            },
+            "hoyts": {
+              "overall_stats": {
+                "sessions": 11,
+                "locations": 11,
+                "total_seats": 1194,
+                "sold_seats": 34,
+                "available_seats": 1085,
+                "occupancy_pct": 2.8,
+                "revenue": 922.5
+              },
+              "locations": {
+                "ARNCIN": {
+                  "cinema_name": "ARNCIN",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 152,
+                    "sold_seats": 2,
+                    "available_seats": 150,
+                    "occupancy_pct": 1.3,
+                    "revenue": 44.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 84352,
+                      "stats": {
+                        "total_seats": 152,
+                        "sold_seats": 2,
+                        "unavailable": 0,
+                        "available_seats": 150,
+                        "occupancy_pct": 1.3,
+                        "revenue": 44.0
+                      },
+                      "start_time": "2026-05-19T21:00:00",
+                      "screen": "Cinema 05"
+                    }
+                  ]
+                },
+                "BELCON": {
+                  "cinema_name": "BELCON",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 91,
+                    "sold_seats": 5,
+                    "available_seats": 84,
+                    "occupancy_pct": 5.5,
+                    "revenue": 137.5
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 361825,
+                      "stats": {
+                        "total_seats": 91,
+                        "sold_seats": 5,
+                        "unavailable": 2,
+                        "available_seats": 84,
+                        "occupancy_pct": 5.6,
+                        "revenue": 137.5
+                      },
+                      "start_time": "2026-05-19T21:00:00",
+                      "screen": "Cinema 03"
+                    }
+                  ]
+                },
+                "CAROUS": {
+                  "cinema_name": "CAROUS",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 135,
+                    "sold_seats": 10,
+                    "available_seats": 122,
+                    "occupancy_pct": 7.4,
+                    "revenue": 265.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 520148,
+                      "stats": {
+                        "total_seats": 135,
+                        "sold_seats": 10,
+                        "unavailable": 3,
+                        "available_seats": 122,
+                        "occupancy_pct": 7.6,
+                        "revenue": 265.0
+                      },
+                      "start_time": "2026-05-19T21:00:00",
+                      "screen": "Cinema 15"
+                    }
+                  ]
+                },
+                "DOCCIN": {
+                  "cinema_name": "DOCCIN",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 57,
+                    "sold_seats": 0,
+                    "available_seats": 55,
+                    "occupancy_pct": 0.0,
+                    "revenue": 0.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 153108,
+                      "stats": {
+                        "total_seats": 57,
+                        "sold_seats": 0,
+                        "unavailable": 2,
+                        "available_seats": 55,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "start_time": "2026-05-19T21:00:00",
+                      "screen": "Cinema 03"
+                    }
+                  ]
+                },
+                "HIGPNT": {
+                  "cinema_name": "HIGPNT",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 96,
+                    "sold_seats": 2,
+                    "available_seats": 92,
+                    "occupancy_pct": 2.1,
+                    "revenue": 56.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 539144,
+                      "stats": {
+                        "total_seats": 96,
+                        "sold_seats": 2,
+                        "unavailable": 2,
+                        "available_seats": 92,
+                        "occupancy_pct": 2.1,
+                        "revenue": 56.0
+                      },
+                      "start_time": "2026-05-19T20:50:00",
+                      "screen": "Cinema 10"
+                    }
+                  ]
+                },
+                "PENRTH": {
+                  "cinema_name": "PENRTH",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 174,
+                    "sold_seats": 0,
+                    "available_seats": 150,
+                    "occupancy_pct": 0.0,
+                    "revenue": 0.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 373154,
+                      "stats": {
+                        "total_seats": 174,
+                        "sold_seats": 0,
+                        "unavailable": 24,
+                        "available_seats": 150,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "start_time": "2026-05-19T20:45:00",
+                      "screen": "Cinema 05"
+                    }
+                  ]
+                },
+                "SLYCIN": {
+                  "cinema_name": "SLYCIN",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 89,
+                    "sold_seats": 0,
+                    "available_seats": 85,
+                    "occupancy_pct": 0.0,
+                    "revenue": 0.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 300888,
+                      "stats": {
+                        "total_seats": 89,
+                        "sold_seats": 0,
+                        "unavailable": 4,
+                        "available_seats": 85,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "start_time": "2026-05-19T20:40:00",
+                      "screen": "Cinema 05"
+                    }
+                  ]
+                },
+                "SUNBNK": {
+                  "cinema_name": "SUNBNK",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 75,
+                    "sold_seats": 0,
+                    "available_seats": 67,
+                    "occupancy_pct": 0.0,
+                    "revenue": 0.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 260386,
+                      "stats": {
+                        "total_seats": 75,
+                        "sold_seats": 0,
+                        "unavailable": 8,
+                        "available_seats": 67,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "start_time": "2026-05-19T21:00:00",
+                      "screen": "Cinema 01"
+                    }
+                  ]
+                },
+                "WARCIN": {
+                  "cinema_name": "WARCIN",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 174,
+                    "sold_seats": 0,
+                    "available_seats": 172,
+                    "occupancy_pct": 0.0,
+                    "revenue": 0.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 53458,
+                      "stats": {
+                        "total_seats": 174,
+                        "sold_seats": 0,
+                        "unavailable": 2,
+                        "available_seats": 172,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "start_time": "2026-05-19T20:20:00",
+                      "screen": "Cinema 06"
+                    }
+                  ]
+                },
+                "WESCIN": {
+                  "cinema_name": "WESCIN",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 95,
+                    "sold_seats": 15,
+                    "available_seats": 55,
+                    "occupancy_pct": 15.8,
+                    "revenue": 420.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 374286,
+                      "stats": {
+                        "total_seats": 95,
+                        "sold_seats": 15,
+                        "unavailable": 25,
+                        "available_seats": 55,
+                        "occupancy_pct": 21.4,
+                        "revenue": 420.0
+                      },
+                      "start_time": "2026-05-19T21:20:00",
+                      "screen": "Cinema 04"
+                    }
+                  ]
+                },
+                "WETHER": {
+                  "cinema_name": "WETHER",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 56,
+                    "sold_seats": 0,
+                    "available_seats": 53,
+                    "occupancy_pct": 0.0,
+                    "revenue": 0.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 446788,
+                      "stats": {
+                        "total_seats": 56,
+                        "sold_seats": 0,
+                        "unavailable": 3,
+                        "available_seats": 53,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "start_time": "2026-05-19T21:00:00",
+                      "screen": "Cinema 07"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "date": "2026-05-20",
+          "overall_stats": {
+            "sessions": 29,
+            "locations": 26,
+            "total_seats": 4529,
+            "sold_seats": 116,
+            "available_seats": 4292,
+            "occupancy_pct": 2.6,
+            "revenue": 2703.0
+          },
+          "platforms": {
+            "village_cinemas": {
+              "overall_stats": {
+                "sessions": 0,
+                "locations": 0,
+                "total_seats": 0,
+                "sold_seats": 0,
+                "available_seats": 0,
+                "occupancy_pct": 0.0,
+                "revenue": 0
+              },
+              "locations": {}
+            },
+            "event_cinemas": {
+              "overall_stats": {
+                "sessions": 18,
+                "locations": 15,
+                "total_seats": 3361,
+                "sold_seats": 114,
+                "available_seats": 3199,
+                "occupancy_pct": 3.4,
+                "revenue": 2647.0
+              },
+              "languages": {
+                "Tamil": {
+                  "ho_code": "HO00018304",
+                  "overall_stats": {
+                    "sessions": 18,
+                    "locations": 15,
+                    "total_seats": 3361,
+                    "sold_seats": 114,
+                    "available_seats": 3199,
+                    "occupancy_pct": 3.4,
+                    "revenue": 2647.0
+                  },
+                  "locations": {
+                    "17": {
+                      "cinema_name": "Innaloo",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 209,
+                        "sold_seats": 11,
+                        "available_seats": 194,
+                        "occupancy_pct": 5.3,
+                        "revenue": 308.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15355930,
+                          "stats": {
+                            "total_seats": 209,
+                            "available_seats": 194,
+                            "sold_seats": 11,
+                            "wheelchair_seats": 4,
+                            "occupancy_pct": 5.3,
+                            "revenue": 308.0
+                          },
+                          "start_time": "2026-05-20T21:00",
+                          "screen_type": "Std",
+                          "screen_name": "7",
+                          "adult_price": 28.0
+                        }
+                      ]
+                    },
+                    "19": {
+                      "cinema_name": "Liverpool",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 169,
+                        "sold_seats": 14,
+                        "available_seats": 154,
+                        "occupancy_pct": 8.3,
+                        "revenue": 196.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15367060,
+                          "stats": {
+                            "total_seats": 169,
+                            "available_seats": 154,
+                            "sold_seats": 14,
+                            "wheelchair_seats": 1,
+                            "occupancy_pct": 8.3,
+                            "revenue": 196.0
+                          },
+                          "start_time": "2026-05-20T15:45",
+                          "screen_type": "Std",
+                          "screen_name": "6",
+                          "adult_price": 14.0
+                        }
+                      ]
+                    },
+                    "22": {
+                      "cinema_name": "Marion",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 101,
+                        "sold_seats": 2,
+                        "available_seats": 97,
+                        "occupancy_pct": 2.0,
+                        "revenue": 48.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15362241,
+                          "stats": {
+                            "total_seats": 101,
+                            "available_seats": 97,
+                            "sold_seats": 2,
+                            "wheelchair_seats": 2,
+                            "occupancy_pct": 2.0,
+                            "revenue": 48.0
+                          },
+                          "start_time": "2026-05-20T20:40",
+                          "screen_type": "Std",
+                          "screen_name": "4",
+                          "adult_price": 24.0
+                        }
+                      ]
+                    },
+                    "24": {
+                      "cinema_name": "Australia Fair",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 174,
+                        "sold_seats": 1,
+                        "available_seats": 170,
+                        "occupancy_pct": 0.6,
+                        "revenue": 20.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15366568,
+                          "stats": {
+                            "total_seats": 174,
+                            "available_seats": 170,
+                            "sold_seats": 1,
+                            "wheelchair_seats": 3,
+                            "occupancy_pct": 0.6,
+                            "revenue": 20.0
+                          },
+                          "start_time": "2026-05-20T18:10",
+                          "screen_type": "Std",
+                          "screen_name": "6",
+                          "adult_price": 20.0
+                        }
+                      ]
+                    },
+                    "38": {
+                      "cinema_name": "Maroochydore Sunshine Plaza",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 139,
+                        "sold_seats": 5,
+                        "available_seats": 133,
+                        "occupancy_pct": 3.6,
+                        "revenue": 125.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15362763,
+                          "stats": {
+                            "total_seats": 139,
+                            "available_seats": 133,
+                            "sold_seats": 5,
+                            "wheelchair_seats": 1,
+                            "occupancy_pct": 3.6,
+                            "revenue": 125.0
+                          },
+                          "start_time": "2026-05-20T15:30",
+                          "screen_type": "Std",
+                          "screen_name": "12",
+                          "adult_price": 25.0
+                        }
+                      ]
+                    },
+                    "48": {
+                      "cinema_name": "Indooroopilly",
+                      "overall_stats": {
+                        "sessions": 2,
+                        "locations": 1,
+                        "total_seats": 305,
+                        "sold_seats": 13,
+                        "available_seats": 286,
+                        "occupancy_pct": 4.3,
+                        "revenue": 312.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15357648,
+                          "stats": {
+                            "total_seats": 157,
+                            "available_seats": 149,
+                            "sold_seats": 5,
+                            "wheelchair_seats": 3,
+                            "occupancy_pct": 3.2,
+                            "revenue": 120.0
+                          },
+                          "start_time": "2026-05-20T15:00",
+                          "screen_type": "Std",
+                          "screen_name": "4",
+                          "adult_price": 24.0
+                        },
+                        {
+                          "session_id": 15357672,
+                          "stats": {
+                            "total_seats": 148,
+                            "available_seats": 137,
+                            "sold_seats": 8,
+                            "wheelchair_seats": 3,
+                            "occupancy_pct": 5.4,
+                            "revenue": 192.0
+                          },
+                          "start_time": "2026-05-20T20:40",
+                          "screen_type": "Std",
+                          "screen_name": "12",
+                          "adult_price": 24.0
+                        }
+                      ]
+                    },
+                    "49": {
+                      "cinema_name": "Mt Gravatt",
+                      "overall_stats": {
+                        "sessions": 2,
+                        "locations": 1,
+                        "total_seats": 914,
+                        "sold_seats": 44,
+                        "available_seats": 862,
+                        "occupancy_pct": 4.8,
+                        "revenue": 1056.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15355043,
+                          "stats": {
+                            "total_seats": 457,
+                            "available_seats": 431,
+                            "sold_seats": 22,
+                            "wheelchair_seats": 4,
+                            "occupancy_pct": 4.8,
+                            "revenue": 528.0
+                          },
+                          "start_time": "2026-05-20T17:40",
+                          "screen_type": "Std",
+                          "screen_name": "10",
+                          "adult_price": 24.0
+                        },
+                        {
+                          "session_id": 15355050,
+                          "stats": {
+                            "total_seats": 457,
+                            "available_seats": 431,
+                            "sold_seats": 22,
+                            "wheelchair_seats": 4,
+                            "occupancy_pct": 4.8,
+                            "revenue": 528.0
+                          },
+                          "start_time": "2026-05-20T21:00",
+                          "screen_type": "Std",
+                          "screen_name": "10",
+                          "adult_price": 24.0
+                        }
+                      ]
+                    },
+                    "53": {
+                      "cinema_name": "Castle Hill",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 78,
+                        "sold_seats": 0,
+                        "available_seats": 75,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15356333,
+                          "stats": {
+                            "total_seats": 78,
+                            "available_seats": 75,
+                            "sold_seats": 0,
+                            "wheelchair_seats": 3,
+                            "occupancy_pct": 0.0,
+                            "revenue": 0.0
+                          },
+                          "start_time": "2026-05-20T21:10",
+                          "screen_type": "Std",
+                          "screen_name": "9",
+                          "adult_price": 26.0
+                        }
+                      ]
+                    },
+                    "58": {
+                      "cinema_name": "Burwood",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 147,
+                        "sold_seats": 8,
+                        "available_seats": 138,
+                        "occupancy_pct": 5.4,
+                        "revenue": 192.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15359306,
+                          "stats": {
+                            "total_seats": 147,
+                            "available_seats": 138,
+                            "sold_seats": 8,
+                            "wheelchair_seats": 1,
+                            "occupancy_pct": 5.4,
+                            "revenue": 192.0
+                          },
+                          "start_time": "2026-05-20T21:00",
+                          "screen_type": "Std",
+                          "screen_name": "5",
+                          "adult_price": 24.0
+                        }
+                      ]
+                    },
+                    "63": {
+                      "cinema_name": "Shellharbour",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 72,
+                        "sold_seats": 0,
+                        "available_seats": 70,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15364732,
+                          "stats": {
+                            "total_seats": 72,
+                            "available_seats": 70,
+                            "sold_seats": 0,
+                            "wheelchair_seats": 2,
+                            "occupancy_pct": 0.0,
+                            "revenue": 0.0
+                          },
+                          "start_time": "2026-05-20T15:00",
+                          "screen_type": "Std",
+                          "screen_name": "8",
+                          "adult_price": 25.0
+                        }
+                      ]
+                    },
+                    "66": {
+                      "cinema_name": "Parramatta",
+                      "overall_stats": {
+                        "sessions": 2,
+                        "locations": 1,
+                        "total_seats": 490,
+                        "sold_seats": 3,
+                        "available_seats": 480,
+                        "occupancy_pct": 0.6,
+                        "revenue": 78.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15363167,
+                          "stats": {
+                            "total_seats": 317,
+                            "available_seats": 311,
+                            "sold_seats": 2,
+                            "wheelchair_seats": 4,
+                            "occupancy_pct": 0.6,
+                            "revenue": 52.0
+                          },
+                          "start_time": "2026-05-20T15:00",
+                          "screen_type": "Std",
+                          "screen_name": "6",
+                          "adult_price": 26.0
+                        },
+                        {
+                          "session_id": 15363170,
+                          "stats": {
+                            "total_seats": 173,
+                            "available_seats": 169,
+                            "sold_seats": 1,
+                            "wheelchair_seats": 3,
+                            "occupancy_pct": 0.6,
+                            "revenue": 26.0
+                          },
+                          "start_time": "2026-05-20T21:00",
+                          "screen_type": "Std",
+                          "screen_name": "2",
+                          "adult_price": 26.0
+                        }
+                      ]
+                    },
+                    "69": {
+                      "cinema_name": "Top Ryde City",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 111,
+                        "sold_seats": 2,
+                        "available_seats": 107,
+                        "occupancy_pct": 1.8,
+                        "revenue": 48.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15365047,
+                          "stats": {
+                            "total_seats": 111,
+                            "available_seats": 107,
+                            "sold_seats": 2,
+                            "wheelchair_seats": 2,
+                            "occupancy_pct": 1.8,
+                            "revenue": 48.0
+                          },
+                          "start_time": "2026-05-20T18:45",
+                          "screen_type": "Std",
+                          "screen_name": "6",
+                          "adult_price": 24.0
+                        }
+                      ]
+                    },
+                    "86": {
+                      "cinema_name": "North Lakes",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 242,
+                        "sold_seats": 7,
+                        "available_seats": 232,
+                        "occupancy_pct": 2.9,
+                        "revenue": 168.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15360619,
+                          "stats": {
+                            "total_seats": 242,
+                            "available_seats": 232,
+                            "sold_seats": 7,
+                            "wheelchair_seats": 3,
+                            "occupancy_pct": 2.9,
+                            "revenue": 168.0
+                          },
+                          "start_time": "2026-05-20T20:50",
+                          "screen_type": "Std",
+                          "screen_name": "4",
+                          "adult_price": 24.0
+                        }
+                      ]
+                    },
+                    "89": {
+                      "cinema_name": "Cairns Smithfield",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 147,
+                        "sold_seats": 4,
+                        "available_seats": 141,
+                        "occupancy_pct": 2.7,
+                        "revenue": 96.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15365287,
+                          "stats": {
+                            "total_seats": 147,
+                            "available_seats": 141,
+                            "sold_seats": 4,
+                            "wheelchair_seats": 2,
+                            "occupancy_pct": 2.7,
+                            "revenue": 96.0
+                          },
+                          "start_time": "2026-05-20T19:15",
+                          "screen_type": "Std",
+                          "screen_name": "2",
+                          "adult_price": 24.0
+                        }
+                      ]
+                    },
+                    "94": {
+                      "cinema_name": "Ed Square",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 63,
+                        "sold_seats": 0,
+                        "available_seats": 60,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15362899,
+                          "stats": {
+                            "total_seats": 63,
+                            "available_seats": 60,
+                            "sold_seats": 0,
+                            "wheelchair_seats": 3,
+                            "occupancy_pct": 0.0,
+                            "revenue": 0.0
+                          },
+                          "start_time": "2026-05-20T18:15",
+                          "screen_type": "Std",
+                          "screen_name": "6",
+                          "adult_price": 26.0
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            },
+            "hoyts": {
+              "overall_stats": {
+                "sessions": 11,
+                "locations": 11,
+                "total_seats": 1168,
+                "sold_seats": 2,
+                "available_seats": 1093,
+                "occupancy_pct": 0.2,
+                "revenue": 56.0
+              },
+              "locations": {
+                "ARNCIN": {
+                  "cinema_name": "ARNCIN",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 152,
+                    "sold_seats": 0,
+                    "available_seats": 152,
+                    "occupancy_pct": 0.0,
+                    "revenue": 0.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 84391,
+                      "stats": {
+                        "total_seats": 152,
+                        "sold_seats": 0,
+                        "unavailable": 0,
+                        "available_seats": 152,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "start_time": "2026-05-20T21:00:00",
+                      "screen": "Cinema 05"
+                    }
+                  ]
+                },
+                "BELCON": {
+                  "cinema_name": "BELCON",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 91,
+                    "sold_seats": 0,
+                    "available_seats": 89,
+                    "occupancy_pct": 0.0,
+                    "revenue": 0.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 361868,
+                      "stats": {
+                        "total_seats": 91,
+                        "sold_seats": 0,
+                        "unavailable": 2,
+                        "available_seats": 89,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "start_time": "2026-05-20T21:00:00",
+                      "screen": "Cinema 03"
+                    }
+                  ]
+                },
+                "CAROUS": {
+                  "cinema_name": "CAROUS",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 135,
+                    "sold_seats": 0,
+                    "available_seats": 132,
+                    "occupancy_pct": 0.0,
+                    "revenue": 0.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 520218,
+                      "stats": {
+                        "total_seats": 135,
+                        "sold_seats": 0,
+                        "unavailable": 3,
+                        "available_seats": 132,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "start_time": "2026-05-20T21:00:00",
+                      "screen": "Cinema 15"
+                    }
+                  ]
+                },
+                "DOCCIN": {
+                  "cinema_name": "DOCCIN",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 57,
+                    "sold_seats": 0,
+                    "available_seats": 55,
+                    "occupancy_pct": 0.0,
+                    "revenue": 0.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 153147,
+                      "stats": {
+                        "total_seats": 57,
+                        "sold_seats": 0,
+                        "unavailable": 2,
+                        "available_seats": 55,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "start_time": "2026-05-20T20:30:00",
+                      "screen": "Cinema 03"
+                    }
+                  ]
+                },
+                "HIGPNT": {
+                  "cinema_name": "HIGPNT",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 96,
+                    "sold_seats": 0,
+                    "available_seats": 94,
+                    "occupancy_pct": 0.0,
+                    "revenue": 0.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 539196,
+                      "stats": {
+                        "total_seats": 96,
+                        "sold_seats": 0,
+                        "unavailable": 2,
+                        "available_seats": 94,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "start_time": "2026-05-20T20:50:00",
+                      "screen": "Cinema 10"
+                    }
+                  ]
+                },
+                "PENRTH": {
+                  "cinema_name": "PENRTH",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 174,
+                    "sold_seats": 0,
+                    "available_seats": 150,
+                    "occupancy_pct": 0.0,
+                    "revenue": 0.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 373201,
+                      "stats": {
+                        "total_seats": 174,
+                        "sold_seats": 0,
+                        "unavailable": 24,
+                        "available_seats": 150,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "start_time": "2026-05-20T20:45:00",
+                      "screen": "Cinema 05"
+                    }
+                  ]
+                },
+                "SLYCIN": {
+                  "cinema_name": "SLYCIN",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 63,
+                    "sold_seats": 0,
+                    "available_seats": 61,
+                    "occupancy_pct": 0.0,
+                    "revenue": 0.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 300927,
+                      "stats": {
+                        "total_seats": 63,
+                        "sold_seats": 0,
+                        "unavailable": 2,
+                        "available_seats": 61,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "start_time": "2026-05-20T20:45:00",
+                      "screen": "Cinema 07"
+                    }
+                  ]
+                },
+                "SUNBNK": {
+                  "cinema_name": "SUNBNK",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 75,
+                    "sold_seats": 0,
+                    "available_seats": 67,
+                    "occupancy_pct": 0.0,
+                    "revenue": 0.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 260426,
+                      "stats": {
+                        "total_seats": 75,
+                        "sold_seats": 0,
+                        "unavailable": 8,
+                        "available_seats": 67,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "start_time": "2026-05-20T21:00:00",
+                      "screen": "Cinema 01"
+                    }
+                  ]
+                },
+                "WARCIN": {
+                  "cinema_name": "WARCIN",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 174,
+                    "sold_seats": 0,
+                    "available_seats": 172,
+                    "occupancy_pct": 0.0,
+                    "revenue": 0.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 53504,
+                      "stats": {
+                        "total_seats": 174,
+                        "sold_seats": 0,
+                        "unavailable": 2,
+                        "available_seats": 172,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "start_time": "2026-05-20T20:20:00",
+                      "screen": "Cinema 06"
+                    }
+                  ]
+                },
+                "WESCIN": {
+                  "cinema_name": "WESCIN",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 95,
+                    "sold_seats": 2,
+                    "available_seats": 68,
+                    "occupancy_pct": 2.1,
+                    "revenue": 56.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 374288,
+                      "stats": {
+                        "total_seats": 95,
+                        "sold_seats": 2,
+                        "unavailable": 25,
+                        "available_seats": 68,
+                        "occupancy_pct": 2.9,
+                        "revenue": 56.0
+                      },
+                      "start_time": "2026-05-20T21:20:00",
+                      "screen": "Cinema 04"
+                    }
+                  ]
+                },
+                "WETHER": {
+                  "cinema_name": "WETHER",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 56,
+                    "sold_seats": 0,
+                    "available_seats": 53,
+                    "occupancy_pct": 0.0,
+                    "revenue": 0.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 446847,
+                      "stats": {
+                        "total_seats": 56,
+                        "sold_seats": 0,
+                        "unavailable": 3,
+                        "available_seats": 53,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "start_time": "2026-05-20T21:00:00",
+                      "screen": "Cinema 07"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
