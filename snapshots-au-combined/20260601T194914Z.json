@@ -1,0 +1,1163 @@
+{
+  "fetched_at": "2026-06-01T19:49:14.155707+00:00",
+  "movies": [
+    {
+      "title": "Karuppu",
+      "movie_info": {
+        "title": "Karuppu",
+        "poster_url": "https://imgix.hoyts.com.au/mx/posters/au/karuppu-ae46f86b.jpg",
+        "release_date": "2026-05-14",
+        "running_time_mins": 152,
+        "director": "RJ  Balaji",
+        "rating": "MA15+",
+        "village_ids": [
+          "HO00016510"
+        ],
+        "ec_versions": [
+          {
+            "label": "Tamil",
+            "ho_code": "HO00018304"
+          }
+        ],
+        "hoyts_ids": [
+          "HO00010916"
+        ]
+      },
+      "overall_stats": {
+        "sessions": 24,
+        "locations": 7,
+        "total_seats": 2596,
+        "sold_seats": 97,
+        "available_seats": 2468,
+        "occupancy_pct": 3.7,
+        "revenue": 2274.0,
+        "dates_count": 8,
+        "village_sessions": 10,
+        "ec_sessions": 11,
+        "hoyts_sessions": 3,
+        "village_revenue": 0.0,
+        "ec_revenue": 2232.0,
+        "hoyts_revenue": 42.0,
+        "ec_language_revenue": {
+          "Tamil": 2232.0
+        }
+      },
+      "dates": [
+        {
+          "date": "2026-06-01",
+          "overall_stats": {
+            "sessions": 1,
+            "locations": 1,
+            "total_seats": 76,
+            "sold_seats": 3,
+            "available_seats": 73,
+            "occupancy_pct": 3.9,
+            "revenue": 42.0
+          },
+          "platforms": {
+            "village_cinemas": {
+              "overall_stats": {
+                "sessions": 0,
+                "locations": 0,
+                "total_seats": 0,
+                "sold_seats": 0,
+                "available_seats": 0,
+                "occupancy_pct": 0.0,
+                "revenue": 0
+              },
+              "locations": {}
+            },
+            "event_cinemas": {
+              "overall_stats": {
+                "sessions": 0,
+                "locations": 0,
+                "total_seats": 0,
+                "sold_seats": 0,
+                "available_seats": 0,
+                "occupancy_pct": 0.0,
+                "revenue": 0
+              },
+              "languages": {
+                "Tamil": {
+                  "ho_code": "HO00018304",
+                  "overall_stats": {
+                    "sessions": 0,
+                    "locations": 0,
+                    "total_seats": 0,
+                    "sold_seats": 0,
+                    "available_seats": 0,
+                    "occupancy_pct": 0.0,
+                    "revenue": 0
+                  },
+                  "locations": {}
+                }
+              }
+            },
+            "hoyts": {
+              "overall_stats": {
+                "sessions": 1,
+                "locations": 1,
+                "total_seats": 76,
+                "sold_seats": 3,
+                "available_seats": 73,
+                "occupancy_pct": 3.9,
+                "revenue": 42.0
+              },
+              "locations": {
+                "ARNCIN": {
+                  "cinema_name": "ARNCIN",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 76,
+                    "sold_seats": 3,
+                    "available_seats": 73,
+                    "occupancy_pct": 3.9,
+                    "revenue": 42.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 85097,
+                      "stats": {
+                        "total_seats": 76,
+                        "sold_seats": 3,
+                        "unavailable": 0,
+                        "available_seats": 73,
+                        "occupancy_pct": 3.9,
+                        "revenue": 42.0
+                      },
+                      "start_time": "2026-06-01T20:45:00",
+                      "screen": "Cinema 07"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "date": "2026-06-02",
+          "overall_stats": {
+            "sessions": 10,
+            "locations": 7,
+            "total_seats": 1098,
+            "sold_seats": 79,
+            "available_seats": 1006,
+            "occupancy_pct": 7.2,
+            "revenue": 1816.0
+          },
+          "platforms": {
+            "village_cinemas": {
+              "overall_stats": {
+                "sessions": 5,
+                "locations": 3,
+                "total_seats": 0,
+                "sold_seats": 0,
+                "available_seats": 0,
+                "occupancy_pct": 0.0,
+                "revenue": 0.0
+              },
+              "locations": {
+                "274": {
+                  "cinema_name": "Knox",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 0,
+                    "sold_seats": 0,
+                    "available_seats": 0,
+                    "occupancy_pct": 0.0,
+                    "revenue": 0.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": "728046",
+                      "stats": {
+                        "total_seats": 0,
+                        "sold_seats": 0,
+                        "available_seats": 0,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "showtime": "2026-06-02T14:40:00.000000+10:00",
+                      "experience": "Standard"
+                    }
+                  ]
+                },
+                "302": {
+                  "cinema_name": "M-City",
+                  "overall_stats": {
+                    "sessions": 2,
+                    "locations": 1,
+                    "total_seats": 0,
+                    "sold_seats": 0,
+                    "available_seats": 0,
+                    "occupancy_pct": 0.0,
+                    "revenue": 0.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": "49073",
+                      "stats": {
+                        "total_seats": 0,
+                        "sold_seats": 0,
+                        "available_seats": 0,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "showtime": "2026-06-02T12:50:00.000000+10:00",
+                      "experience": "Standard"
+                    },
+                    {
+                      "session_id": "49087",
+                      "stats": {
+                        "total_seats": 0,
+                        "sold_seats": 0,
+                        "available_seats": 0,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "showtime": "2026-06-02T21:00:00.000000+10:00",
+                      "experience": "Standard"
+                    }
+                  ]
+                },
+                "309": {
+                  "cinema_name": "Sunshine",
+                  "overall_stats": {
+                    "sessions": 2,
+                    "locations": 1,
+                    "total_seats": 0,
+                    "sold_seats": 0,
+                    "available_seats": 0,
+                    "occupancy_pct": 0.0,
+                    "revenue": 0.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": "898556",
+                      "stats": {
+                        "total_seats": 0,
+                        "sold_seats": 0,
+                        "available_seats": 0,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "showtime": "2026-06-02T12:40:00.000000+10:00",
+                      "experience": "Standard"
+                    },
+                    {
+                      "session_id": "898598",
+                      "stats": {
+                        "total_seats": 0,
+                        "sold_seats": 0,
+                        "available_seats": 0,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "showtime": "2026-06-02T19:30:00.000000+10:00",
+                      "experience": "Standard"
+                    }
+                  ]
+                }
+              }
+            },
+            "event_cinemas": {
+              "overall_stats": {
+                "sessions": 4,
+                "locations": 3,
+                "total_seats": 1022,
+                "sold_seats": 79,
+                "available_seats": 930,
+                "occupancy_pct": 7.7,
+                "revenue": 1816.0
+              },
+              "languages": {
+                "Tamil": {
+                  "ho_code": "HO00018304",
+                  "overall_stats": {
+                    "sessions": 4,
+                    "locations": 3,
+                    "total_seats": 1022,
+                    "sold_seats": 79,
+                    "available_seats": 930,
+                    "occupancy_pct": 7.7,
+                    "revenue": 1816.0
+                  },
+                  "locations": {
+                    "19": {
+                      "cinema_name": "Liverpool",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 275,
+                        "sold_seats": 15,
+                        "available_seats": 256,
+                        "occupancy_pct": 5.5,
+                        "revenue": 210.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15386309,
+                          "stats": {
+                            "total_seats": 275,
+                            "available_seats": 256,
+                            "sold_seats": 15,
+                            "wheelchair_seats": 4,
+                            "occupancy_pct": 5.5,
+                            "revenue": 210.0
+                          },
+                          "start_time": "2026-06-02T13:00",
+                          "screen_type": "Std",
+                          "screen_name": "10",
+                          "adult_price": 14.0
+                        }
+                      ]
+                    },
+                    "49": {
+                      "cinema_name": "Mt Gravatt",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 299,
+                        "sold_seats": 29,
+                        "available_seats": 267,
+                        "occupancy_pct": 9.7,
+                        "revenue": 696.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15387190,
+                          "stats": {
+                            "total_seats": 299,
+                            "available_seats": 267,
+                            "sold_seats": 29,
+                            "wheelchair_seats": 3,
+                            "occupancy_pct": 9.7,
+                            "revenue": 696.0
+                          },
+                          "start_time": "2026-06-02T21:00",
+                          "screen_type": "Std",
+                          "screen_name": "9",
+                          "adult_price": 24.0
+                        }
+                      ]
+                    },
+                    "66": {
+                      "cinema_name": "Parramatta",
+                      "overall_stats": {
+                        "sessions": 2,
+                        "locations": 1,
+                        "total_seats": 448,
+                        "sold_seats": 35,
+                        "available_seats": 407,
+                        "occupancy_pct": 7.8,
+                        "revenue": 910.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15398031,
+                          "stats": {
+                            "total_seats": 224,
+                            "available_seats": 216,
+                            "sold_seats": 5,
+                            "wheelchair_seats": 3,
+                            "occupancy_pct": 2.2,
+                            "revenue": 130.0
+                          },
+                          "start_time": "2026-06-02T14:40",
+                          "screen_type": "Std",
+                          "screen_name": "5",
+                          "adult_price": 26.0
+                        },
+                        {
+                          "session_id": 15390349,
+                          "stats": {
+                            "total_seats": 224,
+                            "available_seats": 191,
+                            "sold_seats": 30,
+                            "wheelchair_seats": 3,
+                            "occupancy_pct": 13.4,
+                            "revenue": 780.0
+                          },
+                          "start_time": "2026-06-02T17:50",
+                          "screen_type": "Std",
+                          "screen_name": "5",
+                          "adult_price": 26.0
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            },
+            "hoyts": {
+              "overall_stats": {
+                "sessions": 1,
+                "locations": 1,
+                "total_seats": 76,
+                "sold_seats": 0,
+                "available_seats": 76,
+                "occupancy_pct": 0.0,
+                "revenue": 0.0
+              },
+              "locations": {
+                "ARNCIN": {
+                  "cinema_name": "ARNCIN",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 76,
+                    "sold_seats": 0,
+                    "available_seats": 76,
+                    "occupancy_pct": 0.0,
+                    "revenue": 0.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 85134,
+                      "stats": {
+                        "total_seats": 76,
+                        "sold_seats": 0,
+                        "unavailable": 0,
+                        "available_seats": 76,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "start_time": "2026-06-02T20:45:00",
+                      "screen": "Cinema 07"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "date": "2026-06-03",
+          "overall_stats": {
+            "sessions": 8,
+            "locations": 6,
+            "total_seats": 705,
+            "sold_seats": 9,
+            "available_seats": 690,
+            "occupancy_pct": 1.3,
+            "revenue": 258.0
+          },
+          "platforms": {
+            "village_cinemas": {
+              "overall_stats": {
+                "sessions": 5,
+                "locations": 3,
+                "total_seats": 0,
+                "sold_seats": 0,
+                "available_seats": 0,
+                "occupancy_pct": 0.0,
+                "revenue": 0.0
+              },
+              "locations": {
+                "274": {
+                  "cinema_name": "Knox",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 0,
+                    "sold_seats": 0,
+                    "available_seats": 0,
+                    "occupancy_pct": 0.0,
+                    "revenue": 0.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": "728045",
+                      "stats": {
+                        "total_seats": 0,
+                        "sold_seats": 0,
+                        "available_seats": 0,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "showtime": "2026-06-03T14:40:00.000000+10:00",
+                      "experience": "Standard"
+                    }
+                  ]
+                },
+                "302": {
+                  "cinema_name": "M-City",
+                  "overall_stats": {
+                    "sessions": 2,
+                    "locations": 1,
+                    "total_seats": 0,
+                    "sold_seats": 0,
+                    "available_seats": 0,
+                    "occupancy_pct": 0.0,
+                    "revenue": 0.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": "49097",
+                      "stats": {
+                        "total_seats": 0,
+                        "sold_seats": 0,
+                        "available_seats": 0,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "showtime": "2026-06-03T12:50:00.000000+10:00",
+                      "experience": "Standard"
+                    },
+                    {
+                      "session_id": "49111",
+                      "stats": {
+                        "total_seats": 0,
+                        "sold_seats": 0,
+                        "available_seats": 0,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "showtime": "2026-06-03T21:00:00.000000+10:00",
+                      "experience": "Standard"
+                    }
+                  ]
+                },
+                "309": {
+                  "cinema_name": "Sunshine",
+                  "overall_stats": {
+                    "sessions": 2,
+                    "locations": 1,
+                    "total_seats": 0,
+                    "sold_seats": 0,
+                    "available_seats": 0,
+                    "occupancy_pct": 0.0,
+                    "revenue": 0.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": "898628",
+                      "stats": {
+                        "total_seats": 0,
+                        "sold_seats": 0,
+                        "available_seats": 0,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "showtime": "2026-06-03T12:40:00.000000+10:00",
+                      "experience": "Standard"
+                    },
+                    {
+                      "session_id": "898670",
+                      "stats": {
+                        "total_seats": 0,
+                        "sold_seats": 0,
+                        "available_seats": 0,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "showtime": "2026-06-03T19:30:00.000000+10:00",
+                      "experience": "Standard"
+                    }
+                  ]
+                }
+              }
+            },
+            "event_cinemas": {
+              "overall_stats": {
+                "sessions": 2,
+                "locations": 2,
+                "total_seats": 629,
+                "sold_seats": 9,
+                "available_seats": 614,
+                "occupancy_pct": 1.4,
+                "revenue": 258.0
+              },
+              "languages": {
+                "Tamil": {
+                  "ho_code": "HO00018304",
+                  "overall_stats": {
+                    "sessions": 2,
+                    "locations": 2,
+                    "total_seats": 629,
+                    "sold_seats": 9,
+                    "available_seats": 614,
+                    "occupancy_pct": 1.4,
+                    "revenue": 258.0
+                  },
+                  "locations": {
+                    "49": {
+                      "cinema_name": "Mt Gravatt",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 405,
+                        "sold_seats": 8,
+                        "available_seats": 394,
+                        "occupancy_pct": 2.0,
+                        "revenue": 232.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15398231,
+                          "stats": {
+                            "total_seats": 405,
+                            "available_seats": 394,
+                            "sold_seats": 8,
+                            "wheelchair_seats": 3,
+                            "occupancy_pct": 2.0,
+                            "revenue": 232.0
+                          },
+                          "start_time": "2026-06-03T19:00",
+                          "screen_type": "Vmax",
+                          "screen_name": "3",
+                          "adult_price": 29.0
+                        }
+                      ]
+                    },
+                    "66": {
+                      "cinema_name": "Parramatta",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 224,
+                        "sold_seats": 1,
+                        "available_seats": 220,
+                        "occupancy_pct": 0.4,
+                        "revenue": 26.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15398027,
+                          "stats": {
+                            "total_seats": 224,
+                            "available_seats": 220,
+                            "sold_seats": 1,
+                            "wheelchair_seats": 3,
+                            "occupancy_pct": 0.4,
+                            "revenue": 26.0
+                          },
+                          "start_time": "2026-06-03T14:20",
+                          "screen_type": "Std",
+                          "screen_name": "5",
+                          "adult_price": 26.0
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            },
+            "hoyts": {
+              "overall_stats": {
+                "sessions": 1,
+                "locations": 1,
+                "total_seats": 76,
+                "sold_seats": 0,
+                "available_seats": 76,
+                "occupancy_pct": 0.0,
+                "revenue": 0.0
+              },
+              "locations": {
+                "ARNCIN": {
+                  "cinema_name": "ARNCIN",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 76,
+                    "sold_seats": 0,
+                    "available_seats": 76,
+                    "occupancy_pct": 0.0,
+                    "revenue": 0.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 85171,
+                      "stats": {
+                        "total_seats": 76,
+                        "sold_seats": 0,
+                        "unavailable": 0,
+                        "available_seats": 76,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "start_time": "2026-06-03T20:45:00",
+                      "screen": "Cinema 07"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "date": "2026-06-04",
+          "overall_stats": {
+            "sessions": 1,
+            "locations": 1,
+            "total_seats": 317,
+            "sold_seats": 2,
+            "available_seats": 311,
+            "occupancy_pct": 0.6,
+            "revenue": 52.0
+          },
+          "platforms": {
+            "village_cinemas": {
+              "overall_stats": {
+                "sessions": 0,
+                "locations": 0,
+                "total_seats": 0,
+                "sold_seats": 0,
+                "available_seats": 0,
+                "occupancy_pct": 0.0,
+                "revenue": 0
+              },
+              "locations": {}
+            },
+            "event_cinemas": {
+              "overall_stats": {
+                "sessions": 1,
+                "locations": 1,
+                "total_seats": 317,
+                "sold_seats": 2,
+                "available_seats": 311,
+                "occupancy_pct": 0.6,
+                "revenue": 52.0
+              },
+              "languages": {
+                "Tamil": {
+                  "ho_code": "HO00018304",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 317,
+                    "sold_seats": 2,
+                    "available_seats": 311,
+                    "occupancy_pct": 0.6,
+                    "revenue": 52.0
+                  },
+                  "locations": {
+                    "66": {
+                      "cinema_name": "Parramatta",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 317,
+                        "sold_seats": 2,
+                        "available_seats": 311,
+                        "occupancy_pct": 0.6,
+                        "revenue": 52.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15402194,
+                          "stats": {
+                            "total_seats": 317,
+                            "available_seats": 311,
+                            "sold_seats": 2,
+                            "wheelchair_seats": 4,
+                            "occupancy_pct": 0.6,
+                            "revenue": 52.0
+                          },
+                          "start_time": "2026-06-04T20:45",
+                          "screen_type": "Std",
+                          "screen_name": "6",
+                          "adult_price": 26.0
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            },
+            "hoyts": {
+              "overall_stats": {
+                "sessions": 0,
+                "locations": 0,
+                "total_seats": 0,
+                "sold_seats": 0,
+                "available_seats": 0,
+                "occupancy_pct": 0.0,
+                "revenue": 0
+              },
+              "locations": {}
+            }
+          }
+        },
+        {
+          "date": "2026-06-07",
+          "overall_stats": {
+            "sessions": 1,
+            "locations": 1,
+            "total_seats": 100,
+            "sold_seats": 1,
+            "available_seats": 97,
+            "occupancy_pct": 1.0,
+            "revenue": 27.0
+          },
+          "platforms": {
+            "village_cinemas": {
+              "overall_stats": {
+                "sessions": 0,
+                "locations": 0,
+                "total_seats": 0,
+                "sold_seats": 0,
+                "available_seats": 0,
+                "occupancy_pct": 0.0,
+                "revenue": 0
+              },
+              "locations": {}
+            },
+            "event_cinemas": {
+              "overall_stats": {
+                "sessions": 1,
+                "locations": 1,
+                "total_seats": 100,
+                "sold_seats": 1,
+                "available_seats": 97,
+                "occupancy_pct": 1.0,
+                "revenue": 27.0
+              },
+              "languages": {
+                "Tamil": {
+                  "ho_code": "HO00018304",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 100,
+                    "sold_seats": 1,
+                    "available_seats": 97,
+                    "occupancy_pct": 1.0,
+                    "revenue": 27.0
+                  },
+                  "locations": {
+                    "66": {
+                      "cinema_name": "Parramatta",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 100,
+                        "sold_seats": 1,
+                        "available_seats": 97,
+                        "occupancy_pct": 1.0,
+                        "revenue": 27.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15402222,
+                          "stats": {
+                            "total_seats": 100,
+                            "available_seats": 97,
+                            "sold_seats": 1,
+                            "wheelchair_seats": 2,
+                            "occupancy_pct": 1.0,
+                            "revenue": 27.0
+                          },
+                          "start_time": "2026-06-07T15:00",
+                          "screen_type": "Std",
+                          "screen_name": "8",
+                          "adult_price": 27.0
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            },
+            "hoyts": {
+              "overall_stats": {
+                "sessions": 0,
+                "locations": 0,
+                "total_seats": 0,
+                "sold_seats": 0,
+                "available_seats": 0,
+                "occupancy_pct": 0.0,
+                "revenue": 0
+              },
+              "locations": {}
+            }
+          }
+        },
+        {
+          "date": "2026-06-08",
+          "overall_stats": {
+            "sessions": 1,
+            "locations": 1,
+            "total_seats": 100,
+            "sold_seats": 1,
+            "available_seats": 97,
+            "occupancy_pct": 1.0,
+            "revenue": 27.0
+          },
+          "platforms": {
+            "village_cinemas": {
+              "overall_stats": {
+                "sessions": 0,
+                "locations": 0,
+                "total_seats": 0,
+                "sold_seats": 0,
+                "available_seats": 0,
+                "occupancy_pct": 0.0,
+                "revenue": 0
+              },
+              "locations": {}
+            },
+            "event_cinemas": {
+              "overall_stats": {
+                "sessions": 1,
+                "locations": 1,
+                "total_seats": 100,
+                "sold_seats": 1,
+                "available_seats": 97,
+                "occupancy_pct": 1.0,
+                "revenue": 27.0
+              },
+              "languages": {
+                "Tamil": {
+                  "ho_code": "HO00018304",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 100,
+                    "sold_seats": 1,
+                    "available_seats": 97,
+                    "occupancy_pct": 1.0,
+                    "revenue": 27.0
+                  },
+                  "locations": {
+                    "66": {
+                      "cinema_name": "Parramatta",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 100,
+                        "sold_seats": 1,
+                        "available_seats": 97,
+                        "occupancy_pct": 1.0,
+                        "revenue": 27.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15402223,
+                          "stats": {
+                            "total_seats": 100,
+                            "available_seats": 97,
+                            "sold_seats": 1,
+                            "wheelchair_seats": 2,
+                            "occupancy_pct": 1.0,
+                            "revenue": 27.0
+                          },
+                          "start_time": "2026-06-08T15:00",
+                          "screen_type": "Std",
+                          "screen_name": "8",
+                          "adult_price": 27.0
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            },
+            "hoyts": {
+              "overall_stats": {
+                "sessions": 0,
+                "locations": 0,
+                "total_seats": 0,
+                "sold_seats": 0,
+                "available_seats": 0,
+                "occupancy_pct": 0.0,
+                "revenue": 0
+              },
+              "locations": {}
+            }
+          }
+        },
+        {
+          "date": "2026-06-09",
+          "overall_stats": {
+            "sessions": 1,
+            "locations": 1,
+            "total_seats": 100,
+            "sold_seats": 1,
+            "available_seats": 97,
+            "occupancy_pct": 1.0,
+            "revenue": 26.0
+          },
+          "platforms": {
+            "village_cinemas": {
+              "overall_stats": {
+                "sessions": 0,
+                "locations": 0,
+                "total_seats": 0,
+                "sold_seats": 0,
+                "available_seats": 0,
+                "occupancy_pct": 0.0,
+                "revenue": 0
+              },
+              "locations": {}
+            },
+            "event_cinemas": {
+              "overall_stats": {
+                "sessions": 1,
+                "locations": 1,
+                "total_seats": 100,
+                "sold_seats": 1,
+                "available_seats": 97,
+                "occupancy_pct": 1.0,
+                "revenue": 26.0
+              },
+              "languages": {
+                "Tamil": {
+                  "ho_code": "HO00018304",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 100,
+                    "sold_seats": 1,
+                    "available_seats": 97,
+                    "occupancy_pct": 1.0,
+                    "revenue": 26.0
+                  },
+                  "locations": {
+                    "66": {
+                      "cinema_name": "Parramatta",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 100,
+                        "sold_seats": 1,
+                        "available_seats": 97,
+                        "occupancy_pct": 1.0,
+                        "revenue": 26.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15402256,
+                          "stats": {
+                            "total_seats": 100,
+                            "available_seats": 97,
+                            "sold_seats": 1,
+                            "wheelchair_seats": 2,
+                            "occupancy_pct": 1.0,
+                            "revenue": 26.0
+                          },
+                          "start_time": "2026-06-09T15:00",
+                          "screen_type": "Std",
+                          "screen_name": "8",
+                          "adult_price": 26.0
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            },
+            "hoyts": {
+              "overall_stats": {
+                "sessions": 0,
+                "locations": 0,
+                "total_seats": 0,
+                "sold_seats": 0,
+                "available_seats": 0,
+                "occupancy_pct": 0.0,
+                "revenue": 0
+              },
+              "locations": {}
+            }
+          }
+        },
+        {
+          "date": "2026-06-10",
+          "overall_stats": {
+            "sessions": 1,
+            "locations": 1,
+            "total_seats": 100,
+            "sold_seats": 1,
+            "available_seats": 97,
+            "occupancy_pct": 1.0,
+            "revenue": 26.0
+          },
+          "platforms": {
+            "village_cinemas": {
+              "overall_stats": {
+                "sessions": 0,
+                "locations": 0,
+                "total_seats": 0,
+                "sold_seats": 0,
+                "available_seats": 0,
+                "occupancy_pct": 0.0,
+                "revenue": 0
+              },
+              "locations": {}
+            },
+            "event_cinemas": {
+              "overall_stats": {
+                "sessions": 1,
+                "locations": 1,
+                "total_seats": 100,
+                "sold_seats": 1,
+                "available_seats": 97,
+                "occupancy_pct": 1.0,
+                "revenue": 26.0
+              },
+              "languages": {
+                "Tamil": {
+                  "ho_code": "HO00018304",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 100,
+                    "sold_seats": 1,
+                    "available_seats": 97,
+                    "occupancy_pct": 1.0,
+                    "revenue": 26.0
+                  },
+                  "locations": {
+                    "66": {
+                      "cinema_name": "Parramatta",
+                      "overall_stats": {
+                        "sessions": 1,
+                        "locations": 1,
+                        "total_seats": 100,
+                        "sold_seats": 1,
+                        "available_seats": 97,
+                        "occupancy_pct": 1.0,
+                        "revenue": 26.0
+                      },
+                      "sessions": [
+                        {
+                          "session_id": 15402280,
+                          "stats": {
+                            "total_seats": 100,
+                            "available_seats": 97,
+                            "sold_seats": 1,
+                            "wheelchair_seats": 2,
+                            "occupancy_pct": 1.0,
+                            "revenue": 26.0
+                          },
+                          "start_time": "2026-06-10T15:00",
+                          "screen_type": "Std",
+                          "screen_name": "8",
+                          "adult_price": 26.0
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            },
+            "hoyts": {
+              "overall_stats": {
+                "sessions": 0,
+                "locations": 0,
+                "total_seats": 0,
+                "sold_seats": 0,
+                "available_seats": 0,
+                "occupancy_pct": 0.0,
+                "revenue": 0
+              },
+              "locations": {}
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
