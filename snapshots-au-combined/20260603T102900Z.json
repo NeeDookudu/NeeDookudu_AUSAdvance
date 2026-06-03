@@ -1,0 +1,168 @@
+{
+  "fetched_at": "2026-06-03T10:29:00.962668+00:00",
+  "movies": [
+    {
+      "title": "Karuppu",
+      "movie_info": {
+        "title": "Karuppu",
+        "poster_url": "https://imgix.hoyts.com.au/mx/posters/au/karuppu-ae46f86b.jpg",
+        "release_date": "2026-05-14",
+        "running_time_mins": 152,
+        "director": "RJ  Balaji",
+        "rating": "MA15+",
+        "village_ids": [
+          "HO00016510"
+        ],
+        "ec_versions": [
+          {
+            "label": "Tamil",
+            "ho_code": "HO00018304"
+          }
+        ],
+        "hoyts_ids": [
+          "HO00010916"
+        ]
+      },
+      "overall_stats": {
+        "sessions": 2,
+        "locations": 2,
+        "total_seats": 164,
+        "sold_seats": 2,
+        "available_seats": 162,
+        "occupancy_pct": 1.2,
+        "revenue": 50.0,
+        "dates_count": 1,
+        "village_sessions": 1,
+        "ec_sessions": 0,
+        "hoyts_sessions": 1,
+        "village_revenue": 50.0,
+        "ec_revenue": 0,
+        "hoyts_revenue": 0.0,
+        "ec_language_revenue": {
+          "Tamil": 0
+        }
+      },
+      "dates": [
+        {
+          "date": "2026-06-03",
+          "overall_stats": {
+            "sessions": 2,
+            "locations": 2,
+            "total_seats": 164,
+            "sold_seats": 2,
+            "available_seats": 162,
+            "occupancy_pct": 1.2,
+            "revenue": 50.0
+          },
+          "platforms": {
+            "village_cinemas": {
+              "overall_stats": {
+                "sessions": 1,
+                "locations": 1,
+                "total_seats": 88,
+                "sold_seats": 2,
+                "available_seats": 86,
+                "occupancy_pct": 2.3,
+                "revenue": 50.0
+              },
+              "locations": {
+                "302": {
+                  "cinema_name": "M-City",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 88,
+                    "sold_seats": 2,
+                    "available_seats": 86,
+                    "occupancy_pct": 2.3,
+                    "revenue": 50.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": "49111",
+                      "stats": {
+                        "total_seats": 88,
+                        "sold_seats": 2,
+                        "available_seats": 86,
+                        "occupancy_pct": 2.3,
+                        "revenue": 50.0
+                      },
+                      "showtime": "2026-06-03T21:00:00.000000+10:00",
+                      "experience": "Standard"
+                    }
+                  ]
+                }
+              }
+            },
+            "event_cinemas": {
+              "overall_stats": {
+                "sessions": 0,
+                "locations": 0,
+                "total_seats": 0,
+                "sold_seats": 0,
+                "available_seats": 0,
+                "occupancy_pct": 0.0,
+                "revenue": 0
+              },
+              "languages": {
+                "Tamil": {
+                  "ho_code": "HO00018304",
+                  "overall_stats": {
+                    "sessions": 0,
+                    "locations": 0,
+                    "total_seats": 0,
+                    "sold_seats": 0,
+                    "available_seats": 0,
+                    "occupancy_pct": 0.0,
+                    "revenue": 0
+                  },
+                  "locations": {}
+                }
+              }
+            },
+            "hoyts": {
+              "overall_stats": {
+                "sessions": 1,
+                "locations": 1,
+                "total_seats": 76,
+                "sold_seats": 0,
+                "available_seats": 76,
+                "occupancy_pct": 0.0,
+                "revenue": 0.0
+              },
+              "locations": {
+                "ARNCIN": {
+                  "cinema_name": "ARNCIN",
+                  "overall_stats": {
+                    "sessions": 1,
+                    "locations": 1,
+                    "total_seats": 76,
+                    "sold_seats": 0,
+                    "available_seats": 76,
+                    "occupancy_pct": 0.0,
+                    "revenue": 0.0
+                  },
+                  "sessions": [
+                    {
+                      "session_id": 85171,
+                      "stats": {
+                        "total_seats": 76,
+                        "sold_seats": 0,
+                        "unavailable": 0,
+                        "available_seats": 76,
+                        "occupancy_pct": 0.0,
+                        "revenue": 0.0
+                      },
+                      "start_time": "2026-06-03T20:45:00",
+                      "screen": "Cinema 07"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
