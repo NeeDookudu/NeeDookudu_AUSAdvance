@@ -1,0 +1,48 @@
+{
+  "fetched_at": "2026-08-25T02:10:03.293097+00:00",
+  "movies": [
+    {
+      "title": "Karuppu",
+      "movie_info": {
+        "title": "Karuppu",
+        "poster_url": null,
+        "release_date": "",
+        "running_time_mins": null,
+        "director": null,
+        "rating": null,
+        "village_ids": [
+          "HO00016510"
+        ],
+        "ec_versions": [
+          {
+            "label": "Tamil",
+            "ho_code": "HO00018304"
+          }
+        ],
+        "hoyts_ids": [
+          "HO00010916"
+        ]
+      },
+      "overall_stats": {
+        "sessions": 0,
+        "locations": 0,
+        "total_seats": 0,
+        "sold_seats": 0,
+        "available_seats": 0,
+        "occupancy_pct": 0.0,
+        "revenue": 0,
+        "dates_count": 0,
+        "village_sessions": 0,
+        "ec_sessions": 0,
+        "hoyts_sessions": 0,
+        "village_revenue": 0,
+        "ec_revenue": 0,
+        "hoyts_revenue": 0,
+        "ec_language_revenue": {
+          "Tamil": 0
+        }
+      },
+      "dates": []
+    }
+  ]
+}
